@@ -1,16 +1,16 @@
 Dies ist ein Teil des Codes aus mkdocs.yml für das Mkdocs-Projekt:
 
-Dieses GitHub-Repository hostet die Website für den [Openterface Mini-KVM](https://openterface.com/), ein kompaktes, funktionsreiches KVM-Gerät, das Open-Source ist und von [einer lebendigen Community](https://openterface.com/community/) unterstützt wird.
+Dieses GitHub-Repository hostet die Website für den [Openterface Mini-KVM](https://de.openterface.com/), ein kompaktes, funktionsreiches KVM-Gerät, das Open-Source ist und von [einer lebendigen Community](https://de.openterface.com/community/) unterstützt wird.
 
-Wir haben einen entscheidenden Moment erreicht: Unsere [Crowdfunding-Kampagne](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm) ist jetzt live auf **Crowd Supply**! Wir haben unser Ziel von 12.000 $ in nur wenigen Stunden erreicht! Ihr seid großartig! Lasst uns die Party weiterlaufen lassen! Überlegt, uns zu abonnieren und zu unterstützen, um den Mini-KVM Openterface schneller zu euch zu bringen. Kommt und hängt mit uns in unserer [Community](https://openterface.com/community/) ab!
+Wir haben einen entscheidenden Moment erreicht: Unsere [Crowdfunding-Kampagne](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm) ist jetzt live auf **Crowd Supply**! Wir haben unser Ziel von 12.000 $ in nur wenigen Stunden erreicht! Ihr seid großartig! Lasst uns die Party weiterlaufen lassen! Überlegt, uns zu abonnieren und zu unterstützen, um den Mini-KVM Openterface schneller zu euch zu bringen. Kommt und hängt mit uns in unserer [Community](https://de.openterface.com/community/) ab!
 
 ![pre_launch_poster](docs/images/event/pre_launch_poster.jpg)
 
-Der **[Openterface Mini-KVM](https://openterface.com/)** ermöglicht die Steuerung eines kopflosen Zielgeräts, wie z.B. eines Mini-PCs, Kiosks oder Servers, direkt von Ihrem Laptop oder Desktop aus, ohne dass eine zusätzliche Tastatur, Maus und Monitor erforderlich sind.
+Der **[Openterface Mini-KVM](https://de.openterface.com/)** ermöglicht die Steuerung eines kopflosen Zielgeräts, wie z.B. eines Mini-PCs, Kiosks oder Servers, direkt von Ihrem Laptop oder Desktop aus, ohne dass eine zusätzliche Tastatur, Maus und Monitor erforderlich sind.
 
 Es ist ein Plug-and-Play-Werkzeug, das über HDMI für die Anzeige und USB für emulierte Tastatur/Maus (HID)-Signale verbunden wird. Es erfordert nur minimale Einrichtung: Installieren Sie unsere Host-Anwendung auf Ihrem Host-Computer und Sie sind bereit für die kopflose Steuerung unterwegs.
 
-Erfahren Sie mehr auf unserer [FAQs-Seite](https://openterface.com/faq/).
+Erfahren Sie mehr auf unserer [FAQs-Seite](https://de.openterface.com/faq/).
 
 ## Steuern Sie Ihre Geräte jederzeit und überall
 
@@ -18,7 +18,7 @@ Erfahren Sie mehr auf unserer [FAQs-Seite](https://openterface.com/faq/).
 
 Ob Sie ein IT-Experte sind, der einen Server reparieren muss, ein Entwickler, der mehrere Tests auf Edge-Computing-Maschinen verwaltet, ein Technik-Enthusiast, der an Einplatinencomputern bastelt, oder einfach jemand, der seinen Schreibtisch aufräumen möchte, der Openterface Mini-KVM ist die Lösung.
 
-Erfahren Sie mehr über unsere [Anwendungsfälle](https://openterface.com/use-cases/).
+Erfahren Sie mehr über unsere [Anwendungsfälle](https://de.openterface.com/use-cases/).
 
 ## Funktionen & Spezifikationen
 
@@ -42,7 +42,7 @@ Erfahren Sie mehr über unsere [Anwendungsfälle](https://openterface.com/use-ca
 
 - **Saubere Einrichtung**: Hinterlässt keine Software auf dem Zielcomputer.
 
-Erfahren Sie mehr über die [Spezifikationen](https://openterface.com/specifications/).
+Erfahren Sie mehr über die [Spezifikationen](https://de.openterface.com/specifications/).
 
 ## Host-Anwendung installieren
 
@@ -63,7 +63,7 @@ Wenn Sie eifrig beitragen und unserem Entwicklungsteam beitreten möchten, [kont
 
 ## Kontakt aufnehmen & auf dem Laufenden bleiben
 
-Wir freuen uns, dass Sie daran denken, sich mit uns in Verbindung zu setzen! Wenn Sie Fragen, Feedback oder einfach nur Hallo sagen möchten, besuchen Sie unsere [Kontaktseite](https://openterface.com/contact/) für alle Möglichkeiten, wie Sie uns erreichen können.
+Wir freuen uns, dass Sie daran denken, sich mit uns in Verbindung zu setzen! Wenn Sie Fragen, Feedback oder einfach nur Hallo sagen möchten, besuchen Sie unsere [Kontaktseite](https://de.openterface.com/contact/) für alle Möglichkeiten, wie Sie uns erreichen können.
 
 Um auf dem Laufenden zu bleiben und sich mit unserer Community zu engagieren, folgen Sie uns auf unseren Social Media-Kanälen:
 
