@@ -1,49 +1,33 @@
-# クイックスタート
+# Schnellstart
 
-## 製品概要
+## Produktübersicht
 
-私たちの**Openterface™ Mini-KVM**を使用すると、usbおよびHDMI接続を介して、余分なキーボード、マウス、モニター、またはネットワークを必要とせずに、近くのヘッドレスコンピュータ（**ターゲット**と呼びます）を直接自分のラップトップまたはデスクトップ（**ホスト**と呼びます）から制御できます。
+Unser **Openterface™ Mini-KVM** ermöglicht es Ihnen, einen nahegelegenen headless Computer (den wir als **Ziel** bezeichnen) direkt von Ihrem eigenen Laptop oder Desktop (den wir als **Host** bezeichnen) über eine USB- und HDMI-Verbindung zu steuern, ohne dass eine zusätzliche Tastatur, Maus, Monitor oder Netzwerk erforderlich ist.
 
-## 接続手順
+## Host-Anwendung installieren
 
-Mini-KVMを設定するには、次の手順に従ってください：
+Um dieses Mini-KVM zu verwenden, muss der Host-Computer eine der unten stehenden Host-Anwendungen installieren.
 
-- **ホストコンピュータ接続**：Mini-KVMのオレンジ色の端にあるType-Cポートをホストコンピュータに接続します。
-- **ターゲットデバイス接続**：
-    - **ビデオ出力**：黒い端のHDMIポートをターゲットデバイスのビデオ出力に接続します。ターゲットコンピュータの利用可能なビデオ出力ポートによっては、適切なビデオアダプターが必要になる場合があります。
-    - **Type-C接続**：黒い端のType-Cポートをターゲットデバイスに接続します。
+- [Openterface_MacOS](https://github.com/TechxArtisanStudio/Openterface_MacOS) (In Arbeit): Für MacOS-Unterstützung; Die macOS-App ist auch im Apple App Store verfügbar, indem Sie nach "Openterface" suchen.
+- [Openterface_QT](https://github.com/TechxArtisanStudio/Openterface_QT) (In Arbeit): Für Windows- und Linux-Unterstützung
+- [Openterface_Android](https://github.com/TechxArtisanStudio/Openterface_Android) (In Arbeit): Für Android-Unterstützung
+- [Openterface_WebExtension](https://github.com/TechxArtisanStudio/Openterface_WebExtension) (In Arbeit): Webbasierte App für Chrome/Firefox-Erweiterung
+
+Die oben genannten Host-Anwendungen befinden sich **derzeit in der Entwicklung**. Wir sind aktiv dabei, sie zu programmieren 🛠️ und zu verbessern! 💪 Wenn Sie daran interessiert sind, mitzuwirken und Teil eines innovativen Entwicklungsteams zu sein, [treten Sie uns jetzt bei!](mailto:info@techxartisan.com) 🚀
+
+## Verbindungsverfahren
+
+Um Ihr Mini-KVM einzurichten, folgen Sie diesen Schritten:
+
+- **Host-Computer-Verbindung**:
+    - **Type-C-Verbindung**: Verbinden Sie den Host-Computer mit dem Mini-KVM über ein Type-C-USB-Kabel, indem Sie es in den Type-C-Buchse auf der orangefarbenen Seite des Mini-KVM stecken.
+- **Zielgerät-Verbindung**:
+    - **Type-C-Verbindung**: Verbinden Sie das Zielgerät mit dem Mini-KVM über ein Type-C-USB-Kabel, indem Sie es in die Type-C-Buchse auf der schwarzen Seite des Mini-KVM stecken.
+    - **Videoausgang**: Verbinden Sie den Videoausgang des Zielgeräts mit der HDMI-Buchse auf der schwarzen Seite des Mini-KVM mit einem HDMI-Kabel, einem VGA-zu-HDMI-Kabel oder einem anderen geeigneten Videoquelle-zu-HDMI-Kabel.
+    
 
 ![use-case-pc-angled-view](images/product/use-case-pc-angled-view.jpg)
 
-## ホストアプリの設定
+## Zielkompatibilität
 
-このミニKVMを使用するには、ホストコンピュータに以下のいずれかのホストアプリケーションをインストールする必要があります。
-
-- [Openterface_MacOS](https://github.com/TechxArtisan/Openterface_MacOS)（進行中）: MacOSサポート用ホストアプリケーション; macOSアプリはAppleのApp Storeで「Openterface」と検索することでも見つけることができます。
-- [Openterface_QT](https://github.com/TechxArtisan/Openterface_QT)（進行中）: WindowsおよびLinuxサポート用ホストアプリケーション
-- [Openterface_Android](https://github.com/TechxArtisan/Openterface_Android)（進行中）: Androidサポート用ホストアプリケーション
-- [Openterface_WebExtension](https://github.com/TechxArtisan/Openterface_WebExtension)（進行中）: Chrome/Firefox拡張機能用ウェブベースアプリ
-
-上記のホストアプリケーションは**現在開発中**です。私たちは積極的にコーディング🛠️し、改善を進めています！💪 革新的な開発チームの一員になりたいと思う方は、[今すぐ参加してください！](mailto:techxartisan@gmail.com) 🚀
-
-## ターゲットデバイスの互換性
-
-**事前のインストールや設定は**ターゲットデバイスでは必要ありません。ターゲットデバイスがビデオ出力（HDMI、VGAなど）をサポートし、エミュレートされたキーボードとマウスの制御信号（HID）を受け取るUSBポートを持っていれば、使用できます。したがって、サポートされているターゲットデバイスのプラットフォームには、Windows、macOS、Linux、Android、iOSが含まれます。
-
-
-<section class="dialogue-section-white" id="dialogues-section">
-    <div class="container">
-        <div class="callout-button-container">
-            <div class="dialogue-bubble" id="op-bubble">
-                <img src="/images/op-avatar.jpg" alt="Avatar" class="avatar" draggable="false">
-                <p>もっと読む 📖</p>
-                <a href="/faq" class="md-button md-button--primary" id="join-waitlist-button">FAQs</a>
-            </div>
-            <div class="dialogue-bubble" id="op-bubble">
-                <img src="/images/op-avatar.jpg" alt="Avatar" class="avatar" draggable="false">
-                <p>質問？🤔</p>
-                <a href="https://www.reddit.com/r/Openterface_miniKVM/" class="md-button md-button--primary" id="join-waitlist-button">Subredditで尋ねる</a>
-            </div>
-        </div>
-    </div>
-</section>
+**Keine Vorinstallation oder Konfiguration** ist auf dem Zielgerät erforderlich. Solange das Zielgerät UI-Operationen mit Videoausgang (HDMI, VGA, etc.) unterstützt und über einen USB-Anschluss verfügt, um emulierte Tastatur- und Maussteuerungssignale (HID) zu empfangen, kann es verwendet werden. Daher umfassen unterstützte Zielgeräte-Plattformen Windows, macOS, Linux, Android und iOS.
