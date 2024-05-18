@@ -1,36 +1,36 @@
-# お問い合わせ
+# Kontaktieren Sie uns
 
-お問い合わせいただきありがとうございます。ご質問、フィードバック、またはただ挨拶をしたい場合でも、以下の方法で私たちと連絡を取ることができます：
+Wir freuen uns, dass Sie Interesse daran haben, uns zu kontaktieren. Ob Sie Fragen, Feedback oder einfach nur Hallo sagen möchten, hier sind mehrere Möglichkeiten, wie Sie mit uns in Verbindung treten können:
 
-## 公式連絡先メール
+## Offizielle Kontakt-E-Mails
 
-安全かつ直接的に私たちと通信するために、公式の連絡先メールアドレスにご注意ください。お問い合わせ、サポート、またはフィードバックについて、以下のアドレスまでお気軽にご連絡ください：
+Um sicherzustellen, dass Sie sicher und direkt mit uns kommunizieren, beachten Sie bitte unsere offiziellen Kontakt-E-Mail-Adressen. Für Anfragen, Unterstützung oder Feedback können Sie uns gerne erreichen unter:
 
-- **プライマリー連絡先メール：** [techxartisan@gmail.com](mailto:techxartisan@gmail.com)
+- **Hauptkontakt-E-Mail:** [info@techxartisan.com](mailto:info@techxartisan.com)
 
-また、以下のドメインで終わるメールアドレスも私たちのメンバーや顧客との公式なコミュニケーションチャンネルとして認識されています：
+Zusätzlich wird jede E-Mail-Adresse, die mit den folgenden Domains endet, als offizieller Kommunikationskanal für unsere Mitglieder und Kunden anerkannt:
 
-- **TechxArtisan ドメイン：** *@techxartisan.com
-- **Openterface ドメイン：** *@openterface.com
+- **TechxArtisan-Domain:** *@techxartisan.com
+- **Openterface-Domain:** *@openterface.com
 
-これらのアドレスからのメールは、必要なサポートと情報を提供するために専念している私たちのチームからのものです。
+E-Mails von diesen Adressen stammen von unserem Team, das Ihnen die Unterstützung und Informationen bietet, die Sie benötigen.
 
-## ソーシャルメディアでフォローする
+## Folgen Sie uns in den sozialen Medien
 
-私たちのソーシャルメディアチャンネルを通じて、最新情報を得たり、エンゲージメントを深めることができます：
+Bleiben Sie auf dem Laufenden und engagieren Sie sich mit uns über unsere sozialen Medien:
 
-- :fontawesome-brands-reddit-alien: [私たちのサブレディットに参加する](https://www.reddit.com/r/Openterface_miniKVM/)
-- :fontawesome-brands-github-alt: [GitHubのTechxArtisanを見る](https://github.com/TechxArtisan)
-- :fontawesome-brands-x-twitter: [Twitterでフォローする](https://twitter.com/TechxArtisan)
-- :fontawesome-brands-facebook-f: [Facebookでいいねする](https://www.facebook.com/TechxArtisan)
-- :fontawesome-brands-discord: [私たちのDiscordコミュニティに参加する](https://discord.gg/4khsrbGS)
-- :fontawesome-brands-youtube: [YouTubeチャンネルを購読する](https://youtube.com/@TechxArtisan)
-- :fontawesome-brands-linkedin-in: [LinkedInでフォローする](https://www.linkedin.com/company/techxartisan/)
+- :fontawesome-brands-reddit-alien: [Treten Sie unserem Subreddit bei](https://www.reddit.com/r/Openterface_miniKVM/)
+- :fontawesome-brands-github-alt: [TechxArtisan auf GitHub](https://github.com/TechxArtisanStudio/Openterface/discussions)
+- :fontawesome-brands-x-twitter: [Folgen Sie uns auf Twitter](https://twitter.com/TechxArtisan)
+- :fontawesome-brands-facebook-f: [Liken Sie uns auf Facebook](https://www.facebook.com/TechxArtisan)
+- :fontawesome-brands-discord: [Treten Sie unserer Discord-Community bei](https://discord.gg/sFTJD6a3R8)
+- :fontawesome-brands-youtube: [Abonnieren Sie unseren YouTube-Kanal](https://youtube.com/@TechxArtisan)
+- :fontawesome-brands-linkedin-in: [Folgen Sie uns auf LinkedIn](https://www.linkedin.com/company/techxartisan/)
 
-## 私たちのウェブサイトを訪れる
+## Besuchen Sie unsere Website
 
-私たちと私たちの仕事についての詳細情報を知りたい場合は、ウェブサイトをご覧ください：
+Für weitere Informationen über uns und unsere Arbeit besuchen Sie bitte unsere Website:
 
-- :fontawesome-solid-globe: [TechxArtisan公式ウェブサイト](https://techxartisan.com/en/)
+- :fontawesome-solid-globe: [TechxArtisan Offizielle Website](https://techxartisan.com/en/)
 
-皆さんとのつながりを楽しみにしています！
+Wir freuen uns darauf, mit Ihnen in Kontakt zu treten!

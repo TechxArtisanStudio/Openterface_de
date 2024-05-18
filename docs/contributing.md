@@ -1,91 +1,90 @@
----
-comments: true
----
+# Beitrag leisten
 
-# 貢献について
+Hallo! Du bist also daran interessiert, dich an der Openterface mini-KVM [Community](/community) zu beteiligen und beizutragen? Großartig! 🧡
 
-こんにちは！Openterface mini-KVMの[コミュニティ](/community)に参加し、貢献を考えていますか？素晴らしいですね！🧡
+## Weitersagen 📢
 
-## 言葉を広める 📢
+Wenn du unser Openterface-Gerät als nützlich empfunden hast und es deinen Workflow verbessert, wie wäre es dann, wenn du anderen davon erzählst? Teile deine Geschichte darüber, wie du den mini-KVM in deinen täglichen Aufgaben verwendest, sei es durch Bilder oder Videos, das würde sehr geschätzt werden! Egal, ob es eine schnelle Lösung, ein cooles Setup oder eine einzigartige Integration in deinen Workflow ist, wir wollen alles sehen! Du könntest sogar einen Beitrag in unserer lebhaften Community auf unserem Subreddit [/r/Openterface_miniKVM/](https://www.reddit.com/r/Openterface_miniKVM/) oder unserem Discord-Server [TechxArtisan](https://discord.gg/sFTJD6a3R8) teilen. Lasst uns gemeinsam für Aufsehen sorgen! 🚀 Prost!
 
-もしOpenterfaceのガジェットが役に立ち、作業の効率を向上させていると感じたら、そのことを広めてみませんか？mini-KVMを日々の作業でどのように使用しているか、写真や動画でのストーリー共有が大変評価されます！たとえそれが簡単な修正、かっこいいセットアップ、またはワークフローへのユニークな統合であっても、私たちは全てを見たいと思っています！[Openterface_miniKVM](https://www.reddit.com/r/Openterface_miniKVM/) のサブレディットや、[TechxArtisan](https://discord.gg/sFTJD6a3R8) のDiscordサーバーで投稿を書いて、私たちの活動的なコミュニティに共有することもできます。一緒に盛り上がりましょう！🚀 乾杯！
+## Wie du beitragen kannst 🌟
 
-## あなたが貢献できる方法 🌟
+Wir sind ständig dabei, dieses Projekt für unsere vielfältige Nutzergruppe frisch und aufregend zu halten. Wir verbessern ständig Dinge und beheben Bugs, um die Party am Laufen zu halten!
 
-このプロジェクトを新鮮でファンキーに保つことに注力しています。私たちは、多様なユーザーグループのために常に新しい要素を加え、バグを修正してパーティーを続けています！
+Wir wissen, dass deine Zeit kostbar ist, und das Eintauchen in Fehlerberichte und Änderungsanfragen kann sich wie ein Kampf durch Kaugummi anfühlen. Deshalb haben wir unsere Ärmel hochgekrempelt und unsere Vorlagen und Richtlinien für Probleme optimiert, um es dir leichter zu machen. Ja, wir haben uns um die kleinen Dinge gekümmert, um sicherzustellen, dass unser Issue-Tracker für [Software](/quick-start/#install-host-application) und [Hardware](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware) sowie unser [Diskussionsforum](https://github.com/TechxArtisanStudio/Openterface/discussions) wie geschmiert läuft.
 
-あなたの時間は貴重です、そのことは理解しています。バグレポートや変更リクエストを扱うことは、まるで蜜蝋を泳ぐようなものかもしれません。そのため、私たちは袖をまくり上げて、問題テンプレートとガイドラインを洗練させることによって、より簡単に対応できるようにしました。ええ、私たちは小さなことにも汗を流し、[ソフトウェア](/quick-start/#install-host-application)の問題追跡と[ハードウェア](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware)、そして[ディスカッションボード](https://github.com/TechxArtisanStudio/Openterface/discussions)がスムーズに機能するようにしました。
+Bereit einzutauchen? Lass uns anfangen! 🏊‍♂️
 
-準備はいいですか？さあ、始めましょう！ 🏊‍♂️
+## Einen Fehler melden 🐛
 
-## バグ報告 🐛
+Einen Fehler entdeckt? Kein Problem, das passiert! Da wir uns noch in den frühen Entwicklungsphasen befinden, sind Fehler zu erwarten, insbesondere in den folgenden Softwareanwendungen. Wenn du auf einen stößt, überprüfe bitte, ob er in diese [grundlegenden Betriebstests](/basic-testing) fällt. Je mehr Details du über die Bedingungen gibst, unter denen der Fehler aufgetreten ist, desto besser können wir ihn beheben. Bitte melde alle Fehler, die du findest, in den entsprechenden Github-Repositories.
 
-バグを発見しましたか？心配しないでください、そういうこともあります！開発の初期段階では、特に以下のソフトウェアでバグが発生することが予想されます。バグを見つけた場合は、まずこれらの[基本操作テスト](/basic-testing)に該当するかどうかを確認してください。バグが発生した条件について詳細を提供していただければ、対応がより迅速に行えます。遭遇したバグは対応するGithubリポジトリに報告してください。
+- Navigiere zu:
+  - [Openterface_MacOS](https://github.com/TechxArtisanStudio/Openterface_MacOS) (In Arbeit): Host-Anwendungen für MacOS-Unterstützung
+  - [Openterface_QT](https://github.com/TechxArtisanStudio/Openterface_QT) (In Arbeit): Host-Anwendungen für Win & Linux-Unterstützung
+  - [Openterface_Mini-KVM_Hardware](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware) (In Arbeit): Schaltpläne & Komponenten
 
-- ナビゲート先:
-    - [Openterface_MacOS](https://github.com/TechxArtisanStudio/Openterface_MacOS)（作業中）: MacOSサポート用ホストアプリケーション
-    - [Openterface_QT](https://github.com/TechxArtisanStudio/Openterface_QT)（作業中）: Win & Linuxサポート用ホストアプリケーション
-    - [Openterface_Mini-KVM_Hardware](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware)（作業中）: 回路図とコンポーネント
+- Beim Melden eines Fehlers bitte:
+  - Die App-Version angeben.
+  - Die Umgebung sowohl des Host-Computers als auch des Zielgeräts beschreiben.
+  - Detaillierte Schritte zur Reproduktion des Problems angeben.
+  - Das erwartete und das tatsächliche Ergebnis erklären.
+  - Screenshots oder Videoausschnitte wären sehr hilfreich! 📸🎥
 
-- バグ報告時には以下を明記してください:
-    - アプリのバージョンを指定。
-    - ホストコンピュータと対象デバイスの環境を説明。
-    - 問題を再現するための詳細な手順を提供。
-    - 期待される結果と実際の結果を説明。
-    - スクリーンショットやビデオスニペットの提供も大歓迎です！📸🎥
+Außerdem kannst du dem Entwicklungskanal **#openterface-dev** auf [unserem Discord-Server](https://discord.gg/sFCXHrpDcc) beitreten oder nach 'TechxArtisan' suchen.
 
-さらに、[私たちのDiscordサーバー](https://discord.gg/sFCXHrpDcc)の開発チャンネル **#openterface-dev** に参加することもできますし、「TechxArtisan」と検索してみることもできます。
+Zögere nicht, alle Probleme anzusprechen. Es ist ein großartiger Ort für alle Beta-Tester, um zu diskutieren und zu teilen, was uns wirklich helfen könnte, das Produkt zu verbessern.
 
-何か問題があれば遠慮なく提起してください。これはすべてのベータテスターが議論し、共有するための絶好の場所であり、製品の改善に大いに役立つことでしょう。
+## Einen Fehler beheben 🛠️
 
-## バグの修正 🛠️
-コーディングのスキルと経験をお持ちの方は、私たちのリポジトリを調べて、フォークして修正し、プルリクエストを送ってください。
+Wenn du Programmierkenntnisse und Erfahrung hast, überlege, ob du in unser Repository eintauchst, Fehler identifizierst, einen Fork erstellst, den Fehler behebst und Pull-Requests einreichst.
 
-## ドキュメントの問題を報告する 📝
+## Ein Dokumentationsproblem melden 📝
 
-何かおかしいところや古い情報を見つけた場合は、それを改善するためにあなたの力を貸してください。
+Wenn dir etwas auffällt, das nicht stimmt oder veraltet ist, würden wir uns über deine Hilfe freuen, es zu verbessern.
 
-こうした方法で役立てます：
+So kannst du helfen:
 
-- 問題を見つける: ドキュメントに何か正しくない部分を見つけたら、私たちに知らせてください！
-- 詳細を提供する: 何が問題か教えてください。タイポ、古い情報、わかりにくい説明など、どんな小さな情報も役立ちます。
-- 改善案を提案する: もしあなたに良いアイデアがあれば、遠慮なく提案してください！あなたの洞察は、ユーザー体験を向上させるために非常に価値があります。
-- 報告方法: 対応するGitHubリポジトリにアクセスし、問題の詳細を記載したイシューを作成してください。問題を理解し、迅速に対処するためにできるだけ多くの情報を含めてください。
+- Das Problem erkennen: Wenn du etwas siehst, das in unserer Dokumentation nicht ganz richtig aussieht, lass es uns wissen!
+- Details bereitstellen: Lass uns wissen, was nicht stimmt. Egal, ob es sich um einen Tippfehler, veraltete Informationen oder eine verwirrende Erklärung handelt, jedes Detail hilft.
+- Verbesserungen vorschlagen: Wenn du Ideen hast, wie man Dinge verbessern kann, zögere nicht! Deine Einsichten sind wertvoll, um die Benutzererfahrung zu verbessern.
+- So meldest du es: Gehe einfach zu unserem entsprechenden GitHub-Repository und erstelle ein Issue, in dem du das Problem detailliert beschreibst. Gib so viele Informationen wie möglich an, damit wir das Problem schnell verstehen und beheben können.
 
-ドキュメント改善へのご協力に心から感謝いたします。皆で力を合わせて、ユーザーに最適なリソースを提供しましょう。
+Deine Beiträge zur Verbesserung unserer Dokumentation werden sehr geschätzt. Gemeinsam können wir sicherstellen, dass die Nutzer Zugang zu den bestmöglichen Ressourcen haben.
 
-## 私たちのドキュメントの翻訳を手伝ってください 🌍
+## Helfe, unsere Dokumentation zu übersetzen 🌍
 
-私たちは、どの言語を話しているかにかかわらず、すべての人々が私たちのソリューションにアクセスできるべきだと考えています。そのため、私たちは、ウェブサイトやドキュメントをさまざまな言語に翻訳するため、バイリンガルの皆さんの力を借りたいと考えています。
+Wir glauben, dass jeder Zugang zu unserer Lösung haben sollte, unabhängig von der Sprache, die er spricht. Deshalb rufen wir zweisprachige Superstars wie dich dazu auf, uns zu helfen, unsere Website und Dokumentation in verschiedene Sprachen zu übersetzen.
 
-もしあなたが複数の言語に堪能であり、世界中の人々が技術をアクセスしやすくすることに情熱を持っているなら、ぜひ私たちの手助けをしてください！
+Wenn du mehrere Sprachen fließend sprichst und leidenschaftlich daran interessiert bist, Technologie für Menschen weltweit zugänglich zu machen, würden wir uns über deine Hilfe freuen!
 
-Openterface Mini-KVMの言語アンバサダーとしてどのように参加できるかを知るために、私たちに連絡してください。そうすることで、私たちのソリューションをさらに多くの人々に届ける手助けができます。
+Kontaktiere uns, um herauszufinden, wie du ein Sprachbotschafter für Openterface Mini-KVM werden und uns helfen kannst, noch mehr Menschen mit unserer Lösung zu erreichen.
 
-## デザイン改善のお手伝いをお願いします 🎨
-初印象は重要です。製品の視覚的魅力は、ユーザーの注目を集め、彼らの全体的な体験を向上させるために不可欠な役割を果たします。デザインへのこだわりと見事なビジュアルを創出する才能がある方でしたら、私たちの製品グラフィックの向上をお手伝いいただけると嬉しいです。
+## Helfe, das Design zu verbessern 🎨
 
-魅力的なロゴの制作、ホストアプリケーションのスリークなユーザーインターフェイスデザイン、魅力的なマーケティング資料の作成、さまざまなクールなケーシングのための3Dデザインなど、あなたのクリエイティブなタッチが製品の美学を次のレベルに引き上げることができます。
+Der erste Eindruck zählt, und die visuelle Attraktivität unseres Produkts spielt eine entscheidende Rolle dabei, die Aufmerksamkeit der Nutzer zu gewinnen und ihre gesamte Erfahrung zu verbessern. Wenn du ein Auge für Design und ein Talent für die Erstellung atemberaubender Grafiken hast, würden wir uns über deine Hilfe freuen, unser Produkt optisch zu verschönern.
 
-この挑戦に立ち向かい、視覚的インパクトをもたらす準備ができている方は、製品の魅力を高めるためにデザインの専門知識を活かせる方法を探るために、私たちに連絡してください！
+Egal, ob es darum geht, auffällige Logos zu entwerfen, schlanke Benutzeroberflächen für unsere Host-Anwendungen zu gestalten, ansprechende Marketingmaterialien zu erstellen oder 3D-Designs für verschiedene coole Gehäuse zu entwickeln, deine kreative Note kann die Ästhetik unseres Produkts auf das nächste Level heben.
 
-## コミュニティのモデレーター募集 🤝
+Wenn du bereit für die Herausforderung bist und einen visuellen Eindruck hinterlassen möchtest, setze dich mit uns in Verbindung, um zu erfahren, wie du deine Designexpertise einbringen kannst, um die Attraktivität unseres Produkts zu steigern!
 
-私たちのコミュニティは大きな、フレンドリーな家族のようなものです。そして、皆さんのような素晴らしい方々に参加していただき、それを維持していくことを望んでいます！平和を保ち、良い雰囲気を広めることに熱心なら、モデレーターとしてぜひお迎えしたいです。
+## Helfe, unsere Community zu moderieren 🤝
 
-モデレーターとしてあなたには以下のことをお願いします：
+Unsere Community ist wie eine große, freundliche Familie, und wir suchen nach großartigen Leuten wie dir, um dabei zu helfen, dass es so bleibt! Wenn du daran interessiert bist, den Frieden zu bewahren und gute Stimmung zu verbreiten, würden wir uns freuen, dich als Moderator zu haben.
 
-- 会話をポジティブに保ち、いざこざを解決する手助けをする。
-- 皆がルールに従うようにして、私たちのコミュニティが安全で歓迎される場所であることを確保する。
-- 質問に答えるユーザーを支援し、知識を共有するよう促す。
+Als Moderator wirst du:
 
-これはあなたにとって魅力的ですか？ご興味があれば、ぜひ連絡して、モデレーターとしてどのように参加できるか話し合いましょう！
+- Positive Gespräche fördern und bei Streitigkeiten helfen.
+- Sicherstellen, dass jeder die Regeln befolgt, damit unsere Community sicher und einladend bleibt.
+- Nutzern mit Fragen helfen und andere ermutigen, ihr Wissen zu teilen.
 
-## その他のサポート 🚀
-上記のカテゴリーに完全には当てはまらないけれども、貢献したいと感じていますか？心配は無用です – 他にもたくさんの方法で手を貸すことができます！
+Klingt das nach deinem Ding? Setze dich mit uns in Verbindung und lass uns darüber sprechen, wie du unserem Moderationsteam beitreten kannst!
 
-新機能のテスト、ユーザー体験に対するフィードバックの提供、または革新的なアイデアのブレインストーミングなど、あなたの意見はOpenterface Mini-KVMの成功を推進する上で非常に価値があります。
+## Und noch mehr Hilfe 🚀
 
-[メール](mailto:info@techxartisan.com)でご連絡いただき、どのように関与したいかをお知らせください。一緒に、Openterface Mini-KVMを最高の状態にすることができます！
+Du fühlst dich inspiriert, beizutragen, passt aber nicht in die oben genannten Kategorien? Keine Sorge – es gibt viele andere Möglichkeiten, wie du helfen kannst!
 
-Openterface Mini-KVMが成功を収めるのは、あなたのサポートと貢献のおかげです。私たちの卓越への旅に参加していただき、ありがとうございます！🚀
+Egal, ob es darum geht, neue Funktionen zu testen, Feedback zur Benutzererfahrung zu geben oder innovative Ideen zu entwickeln, dein Beitrag ist von unschätzbarem Wert für den Erfolg von Openterface Mini-KVM.
+
+Kontaktiere uns per [E-Mail](mailto:info@techxartisan.com) und lass uns wissen, wie du dich einbringen möchtest. Gemeinsam können wir Openterface Mini-KVM zu etwas Großartigem machen!
+
+Deine Unterstützung und Beiträge sind es, die Openterface Mini-KVM zum Erfolg führen. Danke, dass du Teil unserer Reise zu Exzellenz bist! 🚀
