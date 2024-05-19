@@ -7,9 +7,9 @@ categories:
   - Technische Überprüfung
 ---
 
-# Cameron Gray's (p)review of Our Mini KVM
+# Cameron Grays (Vor-)Rezension unseres Mini KVM
 
-We're super excited and totally grateful to see our miniKVM pop up on Cameron Gray's YouTube channel! A massive shoutout to Cameron for his awesome deep dive and spot-on insights about this cool little gadget!
+Wir sind super aufgeregt und total dankbar, dass unser miniKVM auf Cameron Grays YouTube-Kanal zu sehen ist! Ein riesiges Dankeschön an Cameron für seinen großartigen tiefgehenden Einblick und seine treffenden Erkenntnisse über dieses coole kleine Gadget!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xAEQpWyfY-c?si=BvkpZzJ8OfT2j8lr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

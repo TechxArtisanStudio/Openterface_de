@@ -9,9 +9,10 @@ tags:
   - Design
 ---
 
-# Reddit’s Feedback on Device Design
+# Reddit’s Feedback zum Gerätedesign
 
-Surprised to get a seriously long and insightful advice, along with other comments, from Reddit on my label design. Most don't get your vision, but as long as stay committed, work hard, also bound to encounter those know, willing to help! Any Thoughts?😇
+Überrascht, eine wirklich lange und aufschlussreiche Beratung zusammen mit anderen Kommentaren von Reddit zu meinem Etikettendesign zu erhalten. Die meisten verstehen deine Vision nicht, aber solange du engagiert bleibst und hart arbeitest, wirst du auch auf diejenigen stoßen, die es verstehen und bereit sind zu helfen! Irgendwelche Gedanken? 😇
+
 
 <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/Design/comments/1aht6m3/new_look_for_our_minikvm_what_do_you_think/">New Look for Our Mini-KVM: What Do You Think? Feedback pls!</a><br> by<a href="https://www.reddit.com/user/youyoubilly/">u/youyoubilly</a> in<a href="https://www.reddit.com/r/Design/">Design</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 

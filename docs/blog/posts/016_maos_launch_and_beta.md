@@ -6,39 +6,39 @@ categories:
   - Ankündigung
 ---
 
-# MacOS App Launch & Wanna Become a Beta Tester!
+# MacOS App-Start & Möchten Sie ein Beta-Tester werden!
 
 ![macos-app-poster](/images/event/macos_app.webp)
 
-Greetings, Community Members!
+Grüße, Gemeinschaftsmitglieder!
 
-I hope this message finds you all in good spirits!
+Ich hoffe, diese Nachricht erreicht euch alle in guter Stimmung!
 
-I'm thrilled to share a milestone achievement with you today: **Our macOS host application for Openterface mini-KVM is now available on the Apple App Store!**
+Ich freue mich, heute einen Meilenstein mit euch zu teilen: **Unsere macOS-Host-Anwendung für Openterface mini-KVM ist jetzt im Apple App Store verfügbar!**
 
 <!-- more -->
 
-To discover our application, simply search for "Openterface" or "minikvm" on the App Store 🔍.
+Um unsere Anwendung zu entdecken, sucht einfach nach "Openterface" oder "minikvm" im App Store 🔍.
 
 ![macos-app-demo-connnection](/images/event/macos-app-demo-connections.webp)
 
-However, there's a unique twist! As of now, you might not be able to fully experience the app without an Openterface mini-KVM device. This brings us to an exciting opportunity: **We are inviting our cherished community members to become beta testers!** 🌟
+Es gibt jedoch eine besondere Wendung! Im Moment könntet ihr die App nicht vollständig erleben, ohne ein Openterface mini-KVM-Gerät zu besitzen. Dies bringt uns zu einer aufregenden Gelegenheit: **Wir laden unsere geschätzten Gemeinschaftsmitglieder ein, Beta-Tester zu werden!** 🌟
 
-As a tester, you'll not only gain early access to our groundbreaking application but will also receive an Openterface mini-KVM, on the house! We're inviting you to test our app and device in real-world scenarios: your work or hobby projects.
+Als Tester erhaltet ihr nicht nur frühzeitigen Zugang zu unserer bahnbrechenden Anwendung, sondern auch ein kostenloses Openterface mini-KVM! Wir laden euch ein, unsere App und unser Gerät in realen Szenarien zu testen: in euren Arbeits- oder Hobbyprojekten.
 
-🕵️ **Your mission?** To identify any bugs 🐞 that need addressing, suggest features 🚀 that could enhance your experience, and much more. This is your chance to directly influence the development of a product designed to streamline your digital life. Your contributions will not only be appreciated but also acknowledged in our thank-you list 📜 later. Please note, the opportunity to become a beta tester is limited due to the unique and exclusive nature of this early access phase.
+🕵️ **Eure Mission?** Identifiziert alle Fehler 🐞, die behoben werden müssen, schlagt Funktionen 🚀 vor, die eure Erfahrung verbessern könnten, und vieles mehr. Dies ist eure Chance, die Entwicklung eines Produkts, das euer digitales Leben vereinfachen soll, direkt zu beeinflussen. Eure Beiträge werden nicht nur geschätzt, sondern auch in unserer Dankesliste 📜 später anerkannt. Bitte beachtet, dass die Möglichkeit, Beta-Tester zu werden, aufgrund der einzigartigen und exklusiven Natur dieser frühen Zugangsphase begrenzt ist.
 
-📝 **Interested?** If you're eager to embark on this pioneering journey with us, simply express your interest by replying to this post and completing [the application form](https://forms.gle/gNKpnvrvwnZNUJbq5).
+📝 **Interessiert?** Wenn ihr bereit seid, dieses wegweisende Abenteuer mit uns zu beginnen, äußert einfach euer Interesse, indem ihr auf diesen Beitrag antwortet und [das Anmeldeformular](https://forms.gle/gNKpnvrvwnZNUJbq5) ausfüllt.
 
-🗓 **Deadline for This Round**: the deadline to express interest and submit your application for this first round of beta testing is **29th March**, New York time. We will announce the lucky individuals selected as our beta testers right here in this post on 1st April. Don't miss this unique opportunity to shape the future of technology with us.
+🗓 **Frist für diese Runde**: Die Frist, um euer Interesse zu bekunden und eure Bewerbung für diese erste Runde des Beta-Testens einzureichen, ist der **29. März**, New Yorker Zeit. Wir werden die glücklichen Personen, die als unsere Beta-Tester ausgewählt wurden, hier in diesem Beitrag am 1. April bekannt geben. Verpasst nicht diese einzigartige Gelegenheit, die Zukunft der Technologie mitzugestalten.
 
-⏳ **What's Next?** This is just the first round of invitations for beta testers. If you don't make it this time, don't lose hope! Stay tuned for future rounds.
+⏳ **Was kommt als nächstes?** Dies ist nur die erste Runde der Einladungen für Beta-Tester. Wenn ihr dieses Mal nicht dabei seid, verliert nicht die Hoffnung! Bleibt dran für zukünftige Runden.
 
-📣 **A Call to Action!** Beyond testing, we have another favour to ask. Help us spread the word about the Openterface mini-KVM and its upcoming crowdfunding campaign. Your support could be the wind beneath our wings, propelling this product into existence more swiftly and making it more affordable. Every share, every conversation helps us gain the momentum we need.
+📣 **Ein Aufruf zum Handeln!** Neben dem Testen haben wir noch eine weitere Bitte. Helft uns, das Wort über das Openterface mini-KVM und seine bevorstehende Crowdfunding-Kampagne zu verbreiten. Eure Unterstützung könnte der Wind unter unseren Flügeln sein, der dieses Produkt schneller auf den Markt bringt und es erschwinglicher macht. Jeder Beitrag, jedes Gespräch hilft uns, die nötige Dynamik zu gewinnen.
 
-We're looking forward to your support! If you haven't subscribed to our [Crowd Supply's Pre-launch page](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm) yet, please do so and consider becoming our backer in the upcoming crowdfunding campaign. Can't wait to embark on this adventure with you! ❤️
+Wir freuen uns auf eure Unterstützung! Wenn ihr euch noch nicht auf unserer [Crowd Supply Pre-Launch-Seite](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm) angemeldet habt, tut dies bitte und erwägt, unser Unterstützer in der bevorstehenden Crowdfunding-Kampagne zu werden. Wir können es kaum erwarten, dieses Abenteuer mit euch zu beginnen! ❤️
 
-Best,
+Beste Grüße,
 
 Openterface Team | TechxArtisan Studio
 

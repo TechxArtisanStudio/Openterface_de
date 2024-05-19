@@ -6,12 +6,12 @@ categories:
   - Ankündigung
 ---
 
-# 🚀 Windows Beta App for Openterface Mini-KVM! 🖥️
+# 🚀 Windows Beta-App für Openterface Mini-KVM! 🖥️
+
+Hallo zusammen! Schaut euch dieses Video an, in dem wir die Grundfunktionen des Openterface Mini-KVM für Windows testen! Ihr könnt die Beta-App für Windows aus dem Github-Repo [Openterface_QT](https://github.com/TechxArtisanStudio/Openterface_QT) herunterladen. Nur zur Info, wir arbeiten noch an einigen Funktionen🔧, also könnte es sein, dass ihr auf Bugs🐛 stoßt... Prost!
+<!-- more -->
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ERzpGtRvP2o?si=kTgl8-iQwSupuIT4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Hey there! Check out this video where we're testing out the basic features of the Openterface Mini-KVM for Windows! You can grab the beta app for Windows from Github Repo [Openterface_QT](https://github.com/TechxArtisanStudio/Openterface_QT) Just a heads-up, we're still polishing some features🔧 so you might bump into bugs🐛... Cheers!
-<!-- more -->
 
 --------
 
