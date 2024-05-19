@@ -3,36 +3,37 @@ date: 2024-05-10
 authors:
   - Openterface
 categories:
-  - ステージ - プロトタイピング
+  - Phase - Prototyping
 ---
 
-# 🌟 無料ボーナスとしてVGAからHDMIケーブルへのアップグレード 🌟
+# 🌟 Upgrade auf VGA-zu-HDMI-Kabel als kostenloser Bonus 🌟
 
 ![new-vga-cable](https://pbs.twimg.com/media/GNQ4hA1bIAEsBHN?format=jpg&name=4096x4096)
 
-こんにちは、OpenterfaceミニKVMの素晴らしいサポーターの皆さん！ 🚀
+Hallo, großartige Unterstützer des Openterface mini-KVM! 🚀
 
-製造業者やさまざまな関係者と協力して、私たちは素晴らしいアップデートを皆さんと共有できるようになりました。それはVGAからHDMIへのケーブルのことです！ 🎉
+Wir haben unermüdlich daran gearbeitet, uns mit Herstellern und verschiedenen Parteien abzustimmen, und wir haben jetzt einige fantastische Neuigkeiten über unser VGA-zu-HDMI-Kabel, die Sie lieben werden! 🎉
 
-まず、ケーブルの長さを0.5mからより実用的な1mに延長しました。これにより、持ち運びの利便性を損なうことなく、すべてのニーズに対応できます。私たちのツールキットバッグにぴったりと収まり、ミニKVMとシームレスにペアリングします。（ミニKVMと一緒に使っているところを近々お見せするために、もっと良い写真を撮ります！）
+Erstens haben wir die Kabellänge von 0,5 m auf eine praktischere Länge von 1 m verlängert, perfekt für all Ihre Bedürfnisse, ohne die Portabilität zu beeinträchtigen. Es passt immer noch wunderschön in unsere Werkzeugtasche und lässt sich nahtlos mit Ihrem mini-KVM kombinieren. (Ich werde bald bessere Fotos machen, um Ihnen zu zeigen, wie es mit unserem mini-KVM in Aktion funktioniert!)
 
-しかし、まだ終わりません！ ケーブルもスタイリッシュに変身しました。スリムでフラットなデザインにより、見た目が良くなるだけでなく、耐久性も向上しました。
+Aber warten Sie, es gibt noch mehr! Das Kabel hat auch eine stilvolle Überarbeitung erfahren – es hat jetzt ein schlankes, flaches Design, das es nicht nur gut aussehen lässt, sondern auch langlebiger macht.
 
-そして、最高の部分はこれです - このアップグレードは追加費用なしで提供されます！ そうです、既にVGAからHDMIケーブルを選んでくれたすべての素晴らしいバッカーの皆さんに対して、無料のアップグレードとして受け取ってください。皆さんのサポートは私たちにとって非常に重要であり、これが私たちの感謝の気持ちを表す方法です！！！ 😊
+Und hier ist das Beste – dieses Upgrade kommt ohne zusätzliche Kosten für Sie! Das stimmt, betrachten Sie dies als ein kostenloses Upgrade für all unsere wunderbaren Unterstützer, die sich bereits für das VGA-zu-HDMI-Kabel entschieden haben. Ihre Unterstützung bedeutet uns die Welt, und das ist unser Weg, Danke zu sagen!!! 😊
 
 <!-- more -->
 
-嬉しいことに、EU/UKの皆さんにとって、このケーブルはCE認証を取得しています。これにより、問題なく注文に追加できます。キャンペーン終了後にEU/UKにミニKVMと一緒に出荷されるようにします。
+Spannenderweise ist dieses Kabel für unsere Freunde in der EU/UK jetzt CE-konform, was bedeutet, dass Sie es ohne Probleme zu Ihrer Bestellung hinzufügen können! Wir werden auch sicherstellen, dass es nach der Kampagne zusammen mit Ihrem mini-KVM in die EU/UK versendet wird.
 
-これらの改善を皆さんにお届けできて嬉しく思い、皆さんの意見を聞くのが待ち遠しいです。フィードバックをお寄せください - それが私たちの成長と改善に役立ちます！
+Wir freuen uns, Ihnen diese Verbesserungen bringen zu können, und können es kaum erwarten, zu hören, was Sie denken. Geben Sie weiterhin Feedback – es hilft uns, zu wachsen und uns zu verbessern!
 
-革新的であり続けてください、
+Bleiben Sie innovativ,
 
-Openterfaceチーム | TechxArtisanスタジオ
+Openterface Team | TechxArtisan Studio
 
-<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/Openterface_miniKVM/comments/1cp5v23/exciting_news_upgrade_on_vgatohdmi_cable_as_a/">🌟 エキサイティングニュース：無料ボーナスとしてVGAからHDMIケーブルへのアップグレード 🌟</a><br> by<a href="https://www.reddit.com/user/youyoubilly/">u/youyoubilly</a> in<a href="https://www.reddit.com/r/Openterface_miniKVM/">Openterface_miniKVM</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+<blockquote class="reddit-embed-bq" style="height:316px" data-embed-height="316"><a href="https://www.reddit.com/r/Openterface_miniKVM/comments/1cp5v23/exciting_news_upgrade_on_vgatohdmi_cable_as_a/">🌟 Exciting News: Upgrade on VGA-to-HDMI cable as a Free Bonus 🌟</a><br> by<a href="https://www.reddit.com/user/youyoubilly/">u/youyoubilly</a> in<a href="https://www.reddit.com/r/Openterface_miniKVM/">Openterface_miniKVM</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 --------
 
-[こちら](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm)でローンチページを確認し、サブスクリプションに参加してください！
-詳細な議論のために、Redditの [r/Openterface_miniKVM](https://www.reddit.com/r/Openterface_miniKVM/) に参加してください。お楽しみに！
+Schauen Sie sich die [Startseite](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm) hier an und abonnieren Sie!
+Für weitere Diskussionen, treten Sie bitte [r/Openterface_miniKVM](https://www.reddit.com/r/Openterface_miniKVM/) auf Reddit bei. Bleiben Sie dran!
