@@ -1,40 +1,42 @@
-## 概要
+# Spezifikationen
+
+## Überblick
 
 ![lig-front](images/product/lig-front.svg)
 ![lig-back](images/product/lig-back.svg)
 
-- 寸法：61 x 13.5 x 53 mm / 2.40 x 0.53 x 2.09 インチ（長さ x 幅 x 高さ）
-- 重量：48g
-- ケーシング：アルミニウムプロファイルケーシング
+- Abmessungen: 61 x 13.5 x 53 mm / 2.40 x 0.53 x 2.09 Zoll (Länge x Breite x Höhe)
+- Gewicht: 48g
+- Gehäuse: Aluminiumprofilgehäuse
 
-## インターフェース
+## Schnittstellen
 
 ![host-side](images/labels/host-side.png)
 ![target-side](images/labels/target-side.png)
 
-- ① ![Type-C to Host](images/labels/Host.svg) **ホスト USB-C ポート**（メス）：USBデバイスポートとして、内蔵USBハブを通じてホストコンピューターにデータ転送のために接続します。
-- ② ![Type-C to Target](images/labels/Target.svg) **ターゲット USB-C ポート**（メス）：USBデバイスポートとして、内蔵USBハブを通じてホストコンピューターにキーボードおよびマウスHID出力をエミュレートするために接続します。
-- ③ ![HDMI Port](images/labels/HDMI.svg) **HDMI入力ポート（メス）**：ターゲットコンピューターからのHDMIソース入力
-- ④ ![Switchable USB-A Port](images/labels/sw-USB.svg) **切替可能な USB-A 2.0 ポート（メス）**：ホストコンピュータまたはターゲットコンピュータによって任意の時点で利用されるUSBホストポートとして、しかし同時には利用されません。
-- ⑤ ![Switcher](images/labels/USB-sw-front.svg) **トグルスイッチ**：ホストとターゲットコンピュータ間でUSB-A 2.0ポートの接続を切り替えるためのスイッチ
+- ① ![Type-C zu Host](images/labels/Host.svg) **Host USB-C Port** (Weiblich): Als USB-Geräteanschluss, Verbindung mit dem Host-Computer für Datenübertragung über den integrierten USB-Hub
+- ② ![Type-C zu Ziel](images/labels/Target.svg) **Ziel USB-C Port** (Weiblich): Als USB-Geräteanschluss, Verbindung mit dem Host-Computer für die Emulation von Tastatur- und Maus-HID-Ausgaben über den integrierten USB-Hub
+- ③ ![HDMI-Port](images/labels/HDMI.svg) **HDMI-Eingangsport (Weiblich)**: HDMI-Quelleingang vom Ziel-Computer
+- ④ ![Umschaltbarer USB-A-Port](images/labels/sw-USB.svg) **Umschaltbarer USB-A 2.0 Port (Weiblich)**: Als USB-Host-Anschluss, genutzt entweder vom Host-Computer oder vom Ziel-Computer zu einem bestimmten Zeitpunkt, aber nicht gleichzeitig
+- ⑤ ![Schalter](images/labels/USB-sw-front.svg) **Umschalter**: Zum Umschalten der Verbindung des USB-A 2.0 Ports zwischen dem Host- und dem Ziel-Computer
 
-## 電源
+## Stromversorgung
 
-- 接続タイプ：USB-Cによる電源供給。外部電源は必要ありません。
+- Verbindungstyp: USB-C betrieben. Keine externe Stromversorgung erforderlich.
 
-## ビデオ
+## Video
 
-- 最大ビデオ入力：3840x2160@30Hzまで、HDMI経由（注：アダプターを使用することで、VGA、マイクロHDMI、DVIなどの他のビデオ入力ソースもサポート可能）
-- サポートされるビデオ解像度：1920x1080@30Hzまで
-- ビデオ圧縮方式：YUV、MJPEG
-- 遅延：140ミリ秒未満
+- Maximale Videoeingabe: Bis zu 3840x2160@30Hz, über HDMI (Hinweis: Mit der Verwendung eines Adapters kann es auch VGA, Micro HDMI, DVI und andere Videoeingangsquellen unterstützen)
+- Unterstützte Videoauflösungen: Bis zu 1920x1080@30Hz
+- Videokompressionsmethoden: YUV, MJPEG
+- Latenz: Unter 140 Millisekunden
 
-## オーディオ
+## Audio
 
-- オーディオキャプチャモード：HDMI埋め込みオーディオ
+- Audiomodus: HDMI eingebettetes Audio
 
-## 環境
+## Umwelt
 
-- 動作温度：0°C から 40°C
-- 保管温度：-10°C から 50°C
-- 湿度：80% RH
+- Betriebstemperatur: 0°C bis 40°C
+- Lagertemperatur: -10°C bis 50°C
+- Luftfeuchtigkeit: 80% RH

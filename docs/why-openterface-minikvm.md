@@ -1,37 +1,19 @@
-# なぜ Openterface Mini-KVM なのか？
+# Warum Openterface Mini-KVM?
 
-## 主な利点
+## Hauptvorteile
 
-様々なKVMソリューションが存在する中で、なぜこれが依然としてあなたの心を掴むのか、ここに理由があります：
+Bei den verschiedenen verfügbaren KVM-Lösungen gibt es gute Gründe, warum unser Produkt Ihr Herz erobern wird:
 
-- **コンパクト＆効率的**：IT専門家およびエンスージアストの両方に対応するように設計された、当社のKVM-over-USBソリューションは、ネットワークアクセスが限定されているか全くない環境で光り輝きます。持ち運び可能で、ネットワークに依存しない、迅速なトラブルシューティングツールを提供します。
+- **Kompakt & Effizient**: Entwickelt sowohl für IT-Profis als auch für Enthusiasten, besticht unsere KVM-over-USB-Lösung in Umgebungen mit begrenztem oder keinem Netzwerkzugang. Sie bietet ein portables, netzwerkunabhängiges und schnelles Werkzeug zur Fehlerbehebung.
 
-- **手頃な価格**：Openterface Mini-KVMを競合他社よりもコスト効果的にするために努力しました。これにより、仕事や趣味のプロジェクトにこの必須ツールが必要なすべての人が手が届くようになります。
+- **Erschwinglichkeit**: Wir haben hart daran gearbeitet, den Openterface Mini-KVM kostengünstiger als seine Alternativen zu machen, sodass er für jeden, der dieses unverzichtbare Werkzeug für Arbeits- oder Hobbyprojekte benötigt, erschwinglich ist.
 
-- **コミュニティ主導＆オープンソース**：Openterface Mini-KVMの核心は、革新と協力のコミュニティを育成することにあります。オープンソースの価値を受け入れることで、ユーザーがカスタム機能や拡張機能を貢献することを歓迎し、ツールの機能と汎用性を豊かにします。👨‍💻🤝👩‍💻
+- **Gemeinschaftsorientiert & Open-Source**: Im Kern geht es beim Openterface Mini-KVM darum, eine Gemeinschaft der Innovation und Zusammenarbeit zu fördern. Durch die Umsetzung von Open-Source-Werten laden wir Benutzer ein, benutzerdefinierte Funktionen und Verbesserungen beizutragen, um die Fähigkeiten und Vielseitigkeit des Tools zu bereichern. 👨‍💻🤝👩‍💻
 
-## プロジェクトを支援する！
+## Unterstützen Sie unser Projekt!
 
-Openterface mini-KVMの公式クラウドファンディングキャンペーンが**Crowd Supply**で開始されました。成功させるために、皆様のサポートが必要です。[キャンペーン](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm)に登録してサポーターになることで、私たちの目標に一歩近づき、Mini-KVM Openterfaceをより早くお届けすることができます。
+Unsere offizielle Crowdfunding-Kampagne für den Openterface Mini-KVM ist auf **Crowd Supply** live und wir sind bestrebt, sie erfolgreich zu machen. Indem Sie die [Kampagne abonnieren](https://www.crowdsupply.com/techxartisan/openterface-mini-kvm) und unser Unterstützer werden, bringen Sie uns unserem Ziel näher und letztlich dazu, den Mini-KVM Openterface schneller zu Ihnen zu liefern.
 
-アップデートをお楽しみに、そして[私たちのコミュニティに参加](https://www.reddit.com/r/Openterface_miniKVM/)して、このエキサイティングな旅の一部となりましょう！ ❤️
+Bleiben Sie auf dem Laufenden und [treten Sie unserer Gemeinschaft bei](https://www.reddit.com/r/Openterface_miniKVM/), um Teil dieser aufregenden Reise zu sein! ❤️
 
-
-![クラウドファンディング投稿](/images/crowdfunding-post.png)
-
-<section class="dialogue-section-white" id="dialogues-section">
-    <div class="container">
-        <div class="callout-button-container">
-            <div class="dialogue-bubble" id="op-bubble">
-                <img src="/images/op-avatar.jpg" alt="Avatar" class="avatar" draggable="false">
-                <p>支援者になる！❤️</p>
-                <a href="https://www.crowdsupply.com/techxartisan/openterface-mini-kvm" class="md-button md-button--primary" id="join-waitlist-button">Crowd Supply へ行く</a>
-            </div>
-            <div class="dialogue-bubble" id="op-bubble">
-                <img src="/images/op-avatar.jpg" alt="Avatar" class="avatar" draggable="false">
-                <p>質問？🤔</p>
-                <a href="https://www.reddit.com/r/Openterface_miniKVM/" class="md-button md-button--primary" id="join-waitlist-button">Subredditで尋ねる</a>
-            </div>
-        </div>
-    </div>
-</section>
+![crowdfunding-post](/images/crowdfunding-post.png)
