@@ -3,8 +3,7 @@ date: 2024-03-30
 authors:
   - Openterface
 categories:
-  - Influencer Reviews
-  - Technische Überprüfung
+  - Tech Review
 ---
 
 # Cameron Grays (Vor-)Rezension unseres Mini KVM
