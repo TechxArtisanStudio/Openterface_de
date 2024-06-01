@@ -15,7 +15,7 @@ Hallo zusammen!
 
 Wir haben gerade einen großartigen [YouTube-Livestream](https://www.youtube.com/live/lwitzvmxsgc?si=s9a1t5_Sce5v22e1) mit David Groom vom MAKE: Magazine beendet! Während der Session haben wir uns mit der Geschichte hinter unserem Openterface Mini-KVM beschäftigt, einer innovativen Open-Source-Hardwarelösung, die es ermöglicht, Headless-Geräte und Einplatinencomputer wie Raspberry Pis mühelos mit dem Laptop zu steuern. Sie können den YouTube-Livestream für weitere Details ansehen oder einfach die Geschichte unten lesen.
 
-![youtube-mit-david-2](029/youtube-mit-david.jpg)
+![youtube-with-david-2](029/youtube-with-david.jpg)
 
 <!-- more -->
 
@@ -37,12 +37,12 @@ Anfangs griffen wir auf behelfsmäßige tragbare, batteriebetriebene Monitore un
 ### Der erste Prototyp
 Unser erster selbstgebauter Prototyp war eine einfache, aber effektive Kombination aus einer Capture-Karte zum Abrufen von Videos vom Headless-Gerät und einem USB-Tastatur/Maus-Simulator, die alle in ein einziges USB-Kabel integriert waren, das an unsere Laptops angeschlossen wurde.
 
-![/früh-mini-kvm-pcb](029/früh-mini-kvm-pcb.jpg)
+![early-mini-kvm-pcb](029/early-mini-kvm-pcb.jpg)
 *Eine der frühen Versionen der Mini-KVM-Platine*
 
 Wir stellten unsere coolen technischen Kunstprojekte auf der Shenzhen Maker Faire im November 2023 vor und wollten David den Prototyp des mini-KVM zeigen. Aber wir haben uns so über die Geschenke von David gefreut, dass wir ihn vergessen haben!
 
-![techxartisan_team_mit_david_zimmers](029/techxartisan_team_mit_david_zimmers.jpg)
+![techxartisan_team_with_david_groom](029/techxartisan_team_with_david_groom.jpg)
 *Aufkleber und Postkarten vom MAKE: Magazin sind echt cool!
 
 ## Feedback der Community und Entwicklung
