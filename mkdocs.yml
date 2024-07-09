@@ -186,12 +186,12 @@ nav:
     - Anwendungsfälle: use-cases.md
     - Spezifikationen: specifications.md
     - Inhalt der Box: whats-in-the-box.md
-    - Funktionsweise 💬: how-it-works.md
-    - Vergleich 💬: comparison.md
-    - Häufig gestellte Fragen 💬: faq.md
+    - Funktionsweise: how-it-works.md
+    - Vergleich: comparison.md
+    - Häufig gestellte Fragen: faq.md
     - Entwicklung:
-          - Beitrag leisten 💬: contributing.md
-          - Grundtests 💬: basic-testing.md
+          - Beitrag leisten: contributing.md
+          - Grundtests: basic-testing.md
   - Gemeinschaft:
       - Willkommen: community.md
   # - Beiträge: https://openterface.com/blog/
