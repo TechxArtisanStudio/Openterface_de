@@ -1,4 +1,4 @@
 # Fahrplan
 
-Arbeit im Gange
-Kommt bald.
+In Arbeit
+Demnächst verfügbar.

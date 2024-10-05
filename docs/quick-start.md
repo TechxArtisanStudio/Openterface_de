@@ -1,33 +1,61 @@
 # Schnellstart
 
-## Produktübersicht
+![basic-two-angled](images/product/basic-two-angled.jpg){:style="max-height:420px"}
 
-Unser **Openterface™ Mini-KVM** ermöglicht es Ihnen, einen nahegelegenen headless Computer (den wir als **Ziel** bezeichnen) direkt von Ihrem eigenen Laptop oder Desktop (den wir als **Host** bezeichnen) über eine USB- und HDMI-Verbindung zu steuern, ohne dass eine zusätzliche Tastatur, Maus, Monitor oder Netzwerk erforderlich ist.
+Unser **Openterface™ Mini-KVM** ermöglicht es Ihnen, einen nahegelegenen headless Computer direkt von Ihrem eigenen Laptop oder Desktop aus über USB- und HDMI-Verbindungen zu steuern, wodurch zusätzliche Peripheriegeräte oder Netzwerkverbindungen überflüssig werden. In dieser Dokumentation bezeichnen wir Ihren steuernden Laptop oder Desktop als **Host** ( ![host-computer](images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![Host](images/shell-icons/host.svg#only-light){:style="height:15px"} ![host-computer](images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"} ![Host](images/shell-icons/host_1.svg#only-dark){:style="height:15px"} ) und das gesteuerte Gerät als **Target** ( ![target-computer](images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![Target](images/shell-icons/target.svg#only-light){:style="height:18px"} ![target-computer](images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"} ![Target](images/shell-icons/target_1.svg#only-dark){:style="height:18px"}).
 
-## Host-Anwendung installieren
+<div class="grid cards" markdown>
 
-Um dieses Mini-KVM zu verwenden, muss der Host-Computer eine der unten stehenden Host-Anwendungen installieren.
+-   :material-feature-search-outline:{ .lg .middle } __Funktionen__
 
-- [Openterface_MacOS](https://github.com/TechxArtisanStudio/Openterface_MacOS) (In Arbeit): Für MacOS-Unterstützung; Die macOS-App ist auch im Apple App Store verfügbar, indem Sie nach "Openterface" suchen.
-- [Openterface_QT](https://github.com/TechxArtisanStudio/Openterface_QT) (In Arbeit): Für Windows- und Linux-Unterstützung
-- [Openterface_Android](https://github.com/TechxArtisanStudio/Openterface_Android) (In Arbeit): Für Android-Unterstützung
-- [Openterface_WebExtension](https://github.com/TechxArtisanStudio/Openterface_WebExtension) (In Arbeit): Webbasierte App für Chrome/Firefox-Erweiterung
+    ---
 
-Die oben genannten Host-Anwendungen befinden sich **derzeit in der Entwicklung**. Wir sind aktiv dabei, sie zu programmieren 🛠️ und zu verbessern! 💪 Wenn Sie daran interessiert sind, mitzuwirken und Teil eines innovativen Entwicklungsteams zu sein, [treten Sie uns jetzt bei!](mailto:info@techxartisan.com) 🚀
+    Entdecken Sie die leistungsstarken Funktionen des Openterface™ Mini-KVM
 
-## Verbindungsverfahren
+    [:octicons-arrow-right-24: Funktionen anzeigen](/features)
 
-Um Ihr Mini-KVM einzurichten, folgen Sie diesen Schritten:
+-   :material-power-plug:{ .lg .middle } __Verbindung herstellen__
 
-- **Host-Computer-Verbindung**:
-    - **Type-C-Verbindung**: Verbinden Sie den Host-Computer mit dem Mini-KVM über ein Type-C-USB-Kabel, indem Sie es in den Type-C-Buchse auf der orangefarbenen Seite des Mini-KVM stecken.
-- **Zielgerät-Verbindung**:
-    - **Type-C-Verbindung**: Verbinden Sie das Zielgerät mit dem Mini-KVM über ein Type-C-USB-Kabel, indem Sie es in die Type-C-Buchse auf der schwarzen Seite des Mini-KVM stecken.
-    - **Videoausgang**: Verbinden Sie den Videoausgang des Zielgeräts mit der HDMI-Buchse auf der schwarzen Seite des Mini-KVM mit einem HDMI-Kabel, einem VGA-zu-HDMI-Kabel oder einem anderen geeigneten Videoquelle-zu-HDMI-Kabel.
+    ---
+
+    Richten Sie Ihr Openterface™ Mini-KVM ein und beginnen Sie, Ihr Zielgerät zu steuern
+
+    [:octicons-arrow-right-24: Verbindungsanleitung](/how-to-connect)
+
+-   :material-open-source-initiative:{ .lg .middle } __Host-Apps__
+
+    ---
+
+    Steuern Sie Ihr Zielgerät nahtlos mit unseren benutzerfreundlichen Host-Anwendungen
+
+    [:octicons-arrow-right-24: Host-App herunterladen](/app)
+
+-   :material-chip:{ .lg .middle } __Offene Hardware__
+
+    ---
+
+    Erfahren Sie mehr über unser Engagement für Open-Source-Hardware und Transparenz
+
+    [:octicons-arrow-right-24: Details zur offenen Hardware](/open-hardware)
+
+-   :material-frequently-asked-questions:{ .lg .middle } __Anwendungsfälle & FAQs__
+
+    ---
+
+    Entdecken Sie ideale Einsatzszenarien für Openterface™ Mini-KVM und finden Sie Antworten auf häufig gestellte Fragen
+
+    [:octicons-arrow-right-24: Anwendungsfälle erkunden](/use-cases)
     
+    [:octicons-arrow-right-24: FAQs anzeigen](/faq)
 
-![use-case-pc-angled-view](images/product/use-case-pc-angled-view.jpg)
+-   :material-compare:{ .lg .middle } __Vergleich__
 
-## Zielkompatibilität
+    ---
 
-**Keine Vorinstallation oder Konfiguration** ist auf dem Zielgerät erforderlich. Solange das Zielgerät UI-Operationen mit Videoausgang (HDMI, VGA, etc.) unterstützt und über einen USB-Anschluss verfügt, um emulierte Tastatur- und Maussteuerungssignale (HID) zu empfangen, kann es verwendet werden. Daher umfassen unterstützte Zielgeräte-Plattformen Windows, macOS, Linux, Android und iOS.
+    Sehen Sie, wie sich Openterface™ Mini-KVM im Vergleich zu anderen KVM-Lösungen schlägt
+
+    [:octicons-arrow-right-24: Warum Openterface?](/why-openterface)
+
+    [:octicons-arrow-right-24: Vergleich anzeigen](/comparison)
+
+</div>

@@ -1,15 +1,22 @@
 # Anwendungsfälle
+## ***Vielseitige Tragbarkeit für unterwegs***
+In Kombination mit Clockwork's uConsole verwandelt sich der Openterface Mini-KVM in ein praktisches KVM-Tool, ideal für Plug-and-Play und schnelle Fehlerbehebung bei headless Geräten in der Nähe. Diese Konfiguration ist besonders nützlich für Außendiensttechniker und Technikbegeisterte, die eine kompakte und effiziente Lösung für die Verwaltung und Diagnose von Geräten unterwegs benötigen.
+
+<img src="https://pbs.twimg.com/media/GRaeGqHa0AA_GMv?format=jpg&name=4096x4096" alt="use-case-demo-uconsole" width="560" height="560">
+
+<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Hier ist ein kurzes Demovideo unserer Qt-Host-App, die auf dem Pi in dieser uConsole läuft. <a href="https://t.co/xwrOE9pCcF">pic.twitter.com/xwrOE9pCcF</a></p>&mdash; TechxArtisan (@TechxArtisan) <a href="https://twitter.com/TechxArtisan/status/1807824199152722019?ref_src=twsrc%5Etfw">1. Juli 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## ***Optimiertes Servermanagement***
-Ideal für IT-Profis, die für die Wartung und den Betrieb von Serverräumen verantwortlich sind. Unser Mini-KVM ermöglicht die Steuerung mehrerer Server von Ihrem eigenen Laptop aus als Einzelarbeitsplatz und steigert so die Betriebseffizienz.
+Ideal für IT-Profis, die für die Wartung und den Betrieb von Serverräumen verantwortlich sind. Unser Mini-KVM ermöglicht die Steuerung mehrerer Server von Ihrem eigenen Laptop aus, was die Betriebseffizienz erhöht.
 ![use-case-demo-pc-bios-1](/images/product/use-case-demo-pc-bios-1.jpg)
 
 ## ***Vereinfachte Einrichtung für Technikbegeisterte***
-Dieses Produkt erleichtert den Einrichtungsprozess für Mikrokontroller-Enthusiasten, die mit Geräten wie Raspberry Pi und Jetson Nano arbeiten. Es ermöglicht die direkte Steuerung von einem Hauptcomputer aus, sodass keine zusätzlichen Peripheriegeräte erforderlich sind.
+Dieses Produkt erleichtert den Einrichtungsprozess für Mikrocomputer-Enthusiasten, die mit Geräten wie Raspberry Pi und Jetson Nano arbeiten. Es ermöglicht die direkte Steuerung vom Hauptcomputer aus, wodurch zusätzliche Peripheriegeräte überflüssig werden.
 
 ![use-case-demo-respberry-pi](/images/product/use-case-demo-respberry-pi.jpg)
 
-## ***Einheitliche Steuerung für unterschiedliche Geräte***
-Perfekt für Fachleute, die zwischen persönlichen und Arbeitscomputern jonglieren oder Geräte wie Geldautomaten, VLTs und Kioske verwalten. Das Openterface Mini-KVM bietet eine einheitliche Schnittstelle, die die Verwaltung mehrerer Geräte vereinfacht.
+## ***Einheitliche Steuerung für verschiedene Geräte***
+Perfekt für Fachleute, die zwischen persönlichen und Arbeitscomputern jonglieren oder Geräte wie Geldautomaten, VLTs und Kioske verwalten. Der Openterface Mini-KVM bietet eine einheitliche Schnittstelle, die die Verwaltung mehrerer Geräte vereinfacht.
 
 ![use-case-demo-macmini2009](/images/product/use-case-demo-macmini2009-3.jpg)
 
@@ -19,6 +26,6 @@ Fachleute, die Aufgaben verwalten, die eine Netzwerktrennung erfordern, wie z.B.
 ![use-case-demo-industrial-pc](images/product/use-case-demo-industrial-pc.jpg)
 
 ## ***Effiziente Integration für gemischte Arbeitsabläufe***
-Benutzer, die häufig zwischen persönlichen und Arbeitscomputern wechseln oder Edge-Computing-Geräte verwalten, profitieren von der optimierten Arbeitsablaufintegration, die das Openterface Mini-KVM bietet.
+Benutzer, die häufig zwischen persönlichen und Arbeitscomputern wechseln oder Edge-Computing-Geräte verwalten, profitieren von der optimierten Arbeitsablaufintegration, die der Openterface Mini-KVM bietet.
 
 ![use-case-demo-macbookpro2010](/images/product/use-case-demo-macbookpro2010.jpg)

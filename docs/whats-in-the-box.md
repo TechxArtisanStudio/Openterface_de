@@ -1,21 +1,24 @@
 # Was ist in der Box
 
-Entdecken Sie unsere zwei Kaufoptionen, die darauf ausgelegt sind, Ihre Bedürfnisse zu erfüllen, egal ob Sie nach den Grundlagen oder einem kompletten Werkzeugsatz suchen.
+Entdecken Sie unsere zwei Kaufoptionen, die auf Ihre Bedürfnisse zugeschnitten sind, egal ob Sie nur das Nötigste oder ein komplettes Set an Werkzeugen suchen.
 
-## Paket 1: Basispack
+## Paket 1: Basis-Paket
 
-![basic-pack](/images/product/product-option-1-basic.jpg)
+![basic-pack](images/product/basic-with-maunal.jpg){:style="width:680px"}
 
-1. Hauptprodukt: Openterface Mini-KVM
+1. Kernprodukt: Openterface Mini-KVM
 2. Schnellstartanleitung
 
-## Paket 2: Werkzeugpack
+## Paket 2: Werkzeug-Paket
 
-![toolkit-pack](/images/product/product-option-2-toolkit.jpg)
+![toolkit-open](images/product/toolkit-open.jpg){:style="width:680px"}
 
-1. Hauptprodukt: Openterface Mini-KVM
+1. Kernprodukt: Openterface Mini-KVM
 2. Schnellstartanleitung
-3. HDMI-Stecker-zu-Stecker-Kabel (30cm)
-4. Typ-C-Stecker-zu-USB-A-Stecker-Kabel (30cm) mit USB-A-Buchse-zu-USB-C-Stecker-Adapter
-5. Typ-C-Stecker-zu-Stecker-Kabel (150cm)
-6. Werkzeugtasche (14cm L x 10cm B x 3,8cm H)
+3. Werkzeugtasche (165 x 110 x 50mm)
+4. Verlängerungskappe
+5. HDMI-Kabel (30cm, Stecker zu Stecker)
+6. Typ-C-zu-USB-A-Kabel (0.3m) mit USB-A-zu-USB-C-Adapter
+7. Typ-C-zu-Typ-C-Kabel (1.5m) mit USB-C-zu-USB-A-Adapter
+
+![toolkit-parts-layout-2-numbers](images/product/toolkit-parts-layout-2-numbers.jpg){:style="width:680px"}
