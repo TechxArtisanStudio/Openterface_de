@@ -25,6 +25,7 @@ Achtung an alle Bastler, Macher und Träumer! Wir freuen uns, die USB KVM DIY-He
 **Kategorien:** Preise für die besten Teilnehmer umfassen Auszeichnungen sowohl für technische Fähigkeiten als auch für Kreativität, sodass jeder eine Chance hat!
 
 **Tolle Preise:**
+
 - Ein Openterface Mini-KVM in limitierter Auflage mit transparentem und silbernem Gehäuse.
 - Der futuristische Pi-Cast KVM von HackerGadgets.
 - Der retro-inspirierte GameShell von Clockwork.
