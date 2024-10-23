@@ -79,7 +79,7 @@ Puh! Das war ein ganz schönes Update, oder?
 
 Wenn du Ideen, Feedback oder wilde KVM-Träume hast, möchten wir davon hören! Schick uns eine Nachricht, sende eine Brieftaube 🕊️ oder besuche einen unserer Community-Kanäle. Wir lieben es, mit dir in Kontakt zu treten!
 
-Vielen Dank nochmals für deine Geduld und dafür, dass du die beste Technik-Community bist. Wir haben noch mehr aufregende Neuigkeiten und Updates in Kürze – bleib dran!
+Vielen Dank nochmals für deine Geduld und dafür, dass du die beste Technik-Community bist. Wir haben noch mehr aufregende Neuigkeiten und Updates in Kürze – bleib dran!!
 
 Mit Dankbarkeit,  
 Billy Wang  
