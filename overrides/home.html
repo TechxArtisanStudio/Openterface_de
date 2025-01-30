@@ -1,0 +1,179 @@
+{% extends "main.html" %}
+
+{% block tabs %}
+  {{ super() }}
+
+  <style>.md-header{position:initial}.md-main__inner{margin:0}.md-content{display:none}@media screen and (min-width:60em){.md-sidebar--secondary{display:none}}@media screen and (min-width:76.25em){.md-sidebar--primary{display:none}}</style>
+
+  <section class="mdx-container">
+    <div class="md-grid md-typeset">
+      <div class="mdx-hero">
+        <div class="mdx-hero__image">
+          <img src="images/cover.png" alt="" width="1659" height="1200" draggable="false">
+        </div>
+        <div class="mdx-hero__content">
+          <div class="image-container">
+            <img src="images/openterface-mini-kvm-v1-9-s.png" alt="Openterface Mini-KVM Produkt" width="460" draggable="false">
+          </div>
+          <a href="{{ 'https://www.crowdsupply.com/techxartisan/openterface-mini-kvm' | url }}" title="Vorbestellen" class="md-button md-button--primary">
+            Vorbestellen
+          </a>
+          <a href="{{ 'https://www.crowdsupply.com/techxartisan/usb-kvm-diy-challenge-2024' | url }}" title="Herausforderung" class="md-button" style="background-color: #ff4500; color: #fff; font-weight: bold; border: 2px solid #ff4500; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); animation: pulse 1.5s infinite;">
+            DIY-Herausforderung
+          </a>
+          <p>Baue dein eigenes <strong>USB KVM</strong> & gewinne unglaubliche Preise! 🏆</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="dialogue-section-white" id="app">
+    <h2>Host-App installieren</h2>
+    <div class="container">
+        <img src="/images/product/win_qt_app.jpg" alt="Poster-Bild" class="poster-image-shadow">
+    </div>
+    <div class="callout-button-container">
+        <div class="dialogue-bubble" id="op-bubble">
+            <img src="/images/trademark/win.svg" alt="Avatar" class="avatar" draggable="false">
+            <p>Windows</p>
+            <a href="https://github.com/TechxArtisanStudio/Openterface_QT/releases/download/{{ config.extra.qt_version }}/openterfaceQT.windows.amd64.exe" class="md-button md-button--primary" id="join-waitlist-button">QT {{ config.extra.qt_version }}</a>
+        </div>
+        <div class="dialogue-bubble" id="op-bubble">
+            <img src="/images/trademark/app-store.svg" alt="Avatar" class="avatar" draggable="false">
+            <p>macOS</p>
+            <a href="http://appstore.com/mac/openterface" class="md-button md-button--primary" id="join-waitlist-button">App Store</a>
+        </div>
+        <div class="dialogue-bubble" id="op-bubble">
+            <img src="/images/trademark/linux.svg" alt="Avatar" class="avatar" draggable="false">
+            <p>Linux</p>
+            <a href="https://github.com/TechxArtisanStudio/Openterface_QT" class="md-button md-button--primary" id="join-waitlist-button">Quellcode</a>
+        </div>
+        <div class="dialogue-bubble" id="op-bubble">
+            <img src="/images/trademark/android.svg" alt="Avatar" class="avatar" draggable="false">
+            <p>Android</p>
+            <a href="https://github.com/TechxArtisanStudio/Openterface_Android/releases/download/{{ config.extra.android_version }}/OpenterfaceAndroid.apk" class="md-button md-button--primary" id="join-waitlist-button">apk {{ config.extra.android_version }}</a>
+        </div>
+    </div>
+    <p>und <a href="/app" style="color: var(--md-primary-fg-color);">mehr</a>.</p>
+  </section>
+
+  <section class="product-close-up" id="product-close-up">
+    
+    <div class="container">
+
+      <div class="product-close-up-content">
+        <div class="product-image">
+          <img src="images/product/use-case-demo-respberry-pi.jpg" alt="Produkt-Nahaufnahme">
+        </div>
+        <div class="product-description">
+          <p>Erhöhe dein Tech-Toolset mit Openterface Mini-KVM: 
+            <strong>Ein kompakter, featurereicher, quelloffener KVM-über-USB-Lösung</strong>, die dein Tech-Leben mit Aufgaben und Fehlersuche auf Knopfdruck erleichtert.
+          </p>
+        </div>
+      </div>
+  
+      <div class="product-close-up-content reverse-layout">
+        <div class="product-image">
+          <img src="/images/product/use-case-demo-industrial-pc.jpg" alt="Vor-Launch-Poster">
+        </div>
+        <div class="product-description">
+          <p> <strong>Sag dem extra Monitor, der Tastatur und der Maus Lebewohl!</strong>
+            Wandele dein Laptop in eine intelligente KVM-Konsole um, um jedes headless Gerät via HDMI und USB zu steuern.
+          </p>
+        </div>
+      </div>
+    </div>
+
+  </section>
+
+  <section class="icon-section" id="icon">
+    <div class="icon-container">
+        <h2>Funktionen</h2>
+        <div class="icon-grid">
+            <div class="icon-item">
+              <img src="images/feature-icons/icon-plug-and-play.svg#only-light" alt="Plug-and-Play-Icon">
+              <img src="images/feature-icons/icon-plug-and-play-d.svg#only-dark" alt="Plug-and-Play-Icon">
+              <p>Plug'n'Play</p>
+            </div>
+            <div class="icon-item">
+                <img src="images/feature-icons/icon-bios-access.svg#only-light" alt="BIOS-Zugriff-Icon">
+                <img src="images/feature-icons/icon-bios-access-d.svg#only-dark" alt="BIOS-Zugriff-Icon">
+                <p>BIOS-Zugriff</p>
+            </div>
+            <div class="icon-item">
+                <img src="images/feature-icons/icon-network-free.svg#only-light" alt="Netzwerk-frei-Icon">
+                <img src="images/feature-icons/icon-network-free-d.svg#only-dark" alt="Netzwerk-frei-Icon">
+                <p>Netzwerk-frei</p>
+            </div>
+            <div class="icon-item">
+                <img src="images/feature-icons/icon-text-transfer.svg#only-light" alt="Text-Übertragung-Icon">
+                <img src="images/feature-icons/icon-text-transfer-d.svg#only-dark" alt="Text-Übertragung-Icon">
+                <p>Text-Übertragung</p>
+            </div>
+            <div class="icon-item">
+                <img src="images/feature-icons/icon-usb-switch.svg#only-light" alt="USB-Switch-Icon">
+                <img src="images/feature-icons/icon-usb-switch-d.svg#only-dark" alt="USB-Switch-Icon">
+                <p>USB-Switch</p>
+            </div>
+            <div class="icon-item">
+              <img src="images/feature-icons/icon-more.svg#only-light" alt="Mehr-Icon">
+              <img src="images/feature-icons/icon-more-d.svg#only-dark" alt="Mehr-Icon">
+              <p>und <a href="/features" style="color: var(--md-primary-fg-color);">mehr</a>.</p>
+          </div>
+        </div>
+    </div>
+  </section>
+
+  <section class="feature-dev-test" id="feature-dev-test">
+    <div class="container">
+      <h2>Produktvorschau</h2>
+      <div class="videos-wrapper">
+        <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/ZZ5P6MnBcHw?si=Ny7OUeid4Wnu_YqV" title="Einführungsvideo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/K0EuMSQEwKo?si=MEHPtBsCP5pSerD2" title="Beta-App für Windows" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        <div class="video-container">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/xAEQpWyfY-c?si=7aMQoJ-1bBI5Hicw" title="Produktrezension" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+      </div>
+    </div>
+  </section>
+  
+  <section class="blog" id="blog">
+    <div class="container">
+      <h2>Höhepunkte</h2>
+      <div class="blog-list">
+        <div class="post">
+          <h3><a href="/blog/lust-auf-eine-diy-herausforderung-trefft-uns-beim-oshwa-show--tell/">Lust auf eine DIY-Herausforderung? Trefft uns beim OSHWA Show & Tell!</a></h3>
+          <p class="date">24/10/01</p>
+        </div>
+        <div class="post">
+          <h3><a href="/blog/hürden-überwinden-fortschrittsupdate--neuer-zeitplan/">Hürden überwinden: Fortschrittsupdate & neuer Zeitplan</a></h3>
+          <p class="date">24/08/23</p>
+        </div>
+        <div class="post">
+          <h3><a href="/blog/vom-teardown-zur-produktion-wir-machen-fortschritte/">Vom Teardown zur Produktion: Wir machen Fortschritte!</a></h3>
+          <p class="date">24/07/16</p>
+        </div>
+        <div class="post">
+          <h3><a href="/blog/last-hours-to-back--mini-kvms-at-tech-frontlines/">Letzte Stunden zum Mitmachen & Mini-KVMs an der Tech-Front</a></h3>
+          <p class="date">24/06/12</p>
+        </div>
+      </div>
+      <a href="{{ '/blog' | url }}" title="mehr lesen" class="md-button md-button--primary read-more-btn">
+        Mehr lesen
+      </a>
+    </div>
+  </section>
+
+  <a rel="me" href="https://mastodon.social/@youyoubilly" style="display:none;">Mastodon</a>
+
+{% endblock %}
+
+{% block content %}{% endblock %}
+
+{% block footer %}
+  {{ super() }}
+{% endblock %}
