@@ -1,7 +1,7 @@
 <!-- Footer -->
 <footer class="md-footer">
 
-    <!-- Link to previous and/or next page -->
+    <!-- Link zur vorherigen und/oder nächsten Seite -->
     {% if "navigation.footer" in features %}
       {% if page.previous_page or page.next_page %}
         {% if page.meta and page.meta.hide %}
@@ -13,7 +13,7 @@
           {{ hidden }}
         >
   
-          <!-- Link to previous page -->
+          <!-- Link zur vorherigen Seite -->
           {% if page.previous_page %}
             {% set direction = lang.t("footer.previous") %}
             <a
@@ -36,7 +36,7 @@
             </a>
           {% endif %}
   
-          <!-- Link to next page -->
+          <!-- Link zur nächsten Seite -->
           {% if page.next_page %}
             {% set direction = lang.t("footer.next") %}
             <a
@@ -62,14 +62,14 @@
       {% endif %}
     {% endif %}
   
-    <!-- Further information -->
+    <!-- Weitere Informationen -->
     <div class="md-footer-meta md-typeset">
       <div class="md-footer-meta__inner md-grid footer-flex-container">
 
-        <!-- Signup form -->
+        <!-- Anmeldeformular -->
         <div class="signup-form-container footer-flex-item">
           <div id="google_form_signup">
-            <!-- Modified form to submit to Google Form -->
+            <!-- Modifiziertes Formular zur Einreichung an Google Form -->
             <form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLSdFc5YUQN74mQpFj6U4NkpNH4TGZGgxur7wVADWSWEsmNezdg/formResponse" 
                   method="post" 
                   id="google-form-subscribe-form" 
@@ -77,27 +77,27 @@
                   target="_blank">
               <div id="google_form_signup_scroll">
                 <div class="gf-field-group">
-                  <input type="text" name="entry.1988135673" class="required" id="google-form-first-name" required="" placeholder="Dein Name">
+                  <input type="text" name="entry.1988135673" class="required" id="google-form-first-name" required="" placeholder="Ihr Name">
                 </div>
                 <div class="gf-field-group">
-                  <input type="email" name="emailAddress" class="required email" id="google-form-email" required="" placeholder="Deine E-Mail-Adresse *">
-                  <input type="hidden" name="entry.22394832" value="Openterface-de">
+                  <input type="email" name="emailAddress" class="required email" id="google-form-email" required="" placeholder="Ihre E-Mail-Adresse *">
+                  <input type="hidden" name="entry.22394832" value="Openterface-eng">
                 </div>
                 <div class="clear">
-                  <input type="submit" name="submit" id="google-form-submit" class="button" value="✉️ Abonnieren Sie den neuesten Buzz! 🐝">
-                  <p class="footnote">Nicht mehr als eine E-Mail pro Monat. Jederzeit abbestellbar.</p>
+                  <input type="submit" name="submit" id="google-form-submit" class="button" value="✉️ Abonnieren Sie die neuesten Nachrichten! 🐝">
+                  <p class="footnote">Nicht mehr als eine E-Mail pro Monat. Jederzeit abbestellen.</p>
                 </div>
               </div>
             </form>
           </div>
         </div>
 
-        <!-- Copyright info -->
+        <!-- Copyright-Informationen -->
         <div class="footer-flex-item footer-copyright">
           {% include "partials/copyright.html" %}
         </div>
 
-        <!-- Social links -->
+        <!-- Soziale Links -->
         {% if config.extra.social %}
           <div class="footer-flex-item footer-social">
             {% include "partials/social.html" %}

@@ -1,9 +1,9 @@
 ---
 template: home.html
-title: Startseite
+title: Home
 social:
   cards_layout_options:
-    title: Openterface Mini-KVM | Verwandeln Sie Ihr Laptop in eine KVM-Konsole
+    title: Openterface Mini-KVM | Verwandle deinen Laptop in eine KVM-Konsole
 ---
 
 Willkommen bei Openterface mini-KVM.
