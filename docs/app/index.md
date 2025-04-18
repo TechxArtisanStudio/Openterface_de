@@ -55,7 +55,7 @@ Um Ihre Openterface™ KVM-Geräte zum Laufen zu bringen, müssen Sie eine der u
     Da alle unsere Apps Open Source sind, könnten Sie auf alternative Versionen von Hostanwendungen für Openterface-Geräte stoßen, die von anderen erstellt wurden. Diese können ziemlich cool sein und zusätzliche Funktionen bieten, aber hier ist eine freundliche Erinnerung: Überprüfen Sie sorgfältig deren Sicherheits- und Datenschutzpraktiken – insbesondere, da KVM-Steuerung Ereignisse von Ihrem Bildschirm, Ihrer Tastatur und Ihrer Maus umfasst. Das Openterface-Team kann die Sicherheit dieser Drittanbieter-Apps nicht garantieren, also gehen Sie vorsichtig vor!
 
 <div class="container">
-    <img src="/images/product/win_qt_app.jpg" alt="Poster Image" class="poster-image-shadow">
+    <img src="/images/product/win_qt_app.webp" alt="Poster Image" class="poster-image-shadow">
 </div>
 
 ## Treten Sie unserer Entwicklung bei
