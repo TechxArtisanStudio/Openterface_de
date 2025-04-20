@@ -15,7 +15,7 @@ Wir setzen uns für offene Hardware und Open-Source-Software ein, lizenziert unt
 -   Streamt Videoausgaben vom angeschlossenen Zielgerät in Echtzeit auf den Android-Bildschirm.
 -   Unterstützt Bildanpassungen für optimale Anzeige.
 
-![image](../../images/android/videoConnect.jpg)
+![image](https://assets.openterface.com/images/android/videoConnect.jpg)
 
 #### Beschreibung der Benutzeroberfläche
 
@@ -29,13 +29,13 @@ Wir setzen uns für offene Hardware und Open-Source-Software ein, lizenziert unt
 3. Starten Sie die App; der Video-Feed erscheint automatisch.
 4. Verwenden Sie die Schieberegler in der Symbolleiste, um Helligkeit, Kontrast oder Farbton nach Bedarf anzupassen.
 
-![image](../../images/android/colorSetting.jpg)
+![image](https://assets.openterface.com/images/android/colorSetting.webp)
 
 #### Besondere Merkmale
 
 -   Die Zoomfunktion mit zwei Fingern verbessert die Anzeige
 
-![image](../../images/android/enlargeAndSideBar.jpg)
+![image](https://assets.openterface.com/images/android/enlargeAndSideBar.webp)
 
 ---
 
@@ -63,7 +63,7 @@ Wir setzen uns für offene Hardware und Open-Source-Software ein, lizenziert unt
 
 -   Relative Maussteuerung (in Entwicklung, Umschaltung über Einstellungen, wenn verfügbar).
 
-## ![image](../../images/android/mouseThouchMode.jpg)
+## ![image](https://assets.openterface.com/images/android/mouseThouchMode.jpg)
 
 ### 3. Tastatureingabe
 
@@ -88,9 +88,9 @@ Wir setzen uns für offene Hardware und Open-Source-Software ein, lizenziert unt
 -   **Funktionstasten**: F1-F12, Symboltasten.
 -   **Standardtasten**: 0-9, A-Z, Enter, Leertaste, Löschen.
 
-![image](../../images/android/enlargeAndKeyBoard.jpg)
-![image](../../images/android/keyBoardFunction.jpg)
-![image](../../images/android/keyBoardSystem.jpg)
+![image](https://assets.openterface.com/images/android/enlargeAndKeyBoard.webp)
+![image](https://assets.openterface.com/images/android/keyBoardFunction.jpg)
+![image](https://assets.openterface.com/images/android/keyBoardSystem.jpg)
 
 ---
 
