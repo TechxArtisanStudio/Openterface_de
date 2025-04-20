@@ -6,7 +6,7 @@ keywords: "VGA zu HDMI, Konverterkabel, integriertes Audio, Video-Konvertierung"
 
 # VGA zu HDMI Konverterkabel
 
-![CABLE100-VGA2HDMI](/images/product/part/CABLE100-VGA2HDMI-1.jpg){:style="height:360px"}
+![CABLE100-VGA2HDMI](https://assets.openterface.com/images/product/part/CABLE100-VGA2HDMI-1.jpg){:style="height:360px"}
 
 Dieses Produkt konvertiert VGA-Video und integriert Audio in HDMI, was eine einfache Verbindung von VGA-Geräten zu HDMI-Displays ermöglicht.
 
