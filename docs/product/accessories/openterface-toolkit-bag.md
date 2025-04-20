@@ -14,4 +14,4 @@ Halten Sie Ihren Openterface Mini-KVM und dessen Zubehör mit dieser kompakten W
 - **Farbe**: Schwarz mit orangefarbenem Reißverschluss
 - **Verwendung**: Ideal zum Aufbewahren und Organisieren Ihres Mini-KVM und seiner Kabel.
 
-<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/openterface-toolkit-bag'"> Bestellung aufgeben <img src="/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>
+<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/openterface-toolkit-bag'"> Bestellung aufgeben <img src="https://assets.openterface.com/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>

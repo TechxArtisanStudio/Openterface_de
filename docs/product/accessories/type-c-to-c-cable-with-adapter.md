@@ -15,4 +15,4 @@ Dieses stilvolle und angenehm anzufassende Type-C Male-to-Male Kabel in lebhafte
 - **Adapter**: USB-C Female zu USB-A Male
 - **Verwendung**: Für hochgeschwindigkeits Datentransfer zwischen dem Host-Computer und dem Mini-KVM sowie für schnelles Laden von Mobiltelefonen oder Laptops.
 
-<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/type-c-cable-with-usb-a-adapter-1-5m-4-11ft-240w-fast-charging-data-transfer-usb2-0'"> Bestellung aufgeben <img src="/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>
+<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/type-c-cable-with-usb-a-adapter-1-5m-4-11ft-240w-fast-charging-data-transfer-usb2-0'"> Bestellung aufgeben <img src="https://assets.openterface.com/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>

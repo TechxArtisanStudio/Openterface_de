@@ -71,4 +71,4 @@ Für einen detaillierten Anwendungsfall dieses Kabels besuchen Sie bitte [Stream
 Sehen Sie sich das Demovideo des Tech-Influencers **Cameron Gray** an, wie man dieses Kabel mit dem Mini-KVM verwendet:  
 [Diese USB KVM-Konsole ist großartig!](https://youtu.be/xAEQpWyfY-c?si=auB5NtqHVw2C7iIK&t=1693)
 
-<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/vga-to-hdmi-converter-cable'"> Bestellung aufgeben <img src="/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>
+<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/vga-to-hdmi-converter-cable'"> Bestellung aufgeben <img src="https://assets.openterface.com/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>

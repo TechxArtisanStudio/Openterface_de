@@ -15,4 +15,4 @@ Dieses vielseitige Type-C Stecker zu USB-A Stecker Kabel, kombiniert mit einem U
 - **Adapter**: USB-A Buchse zu USB-C Stecker
 - **Verwendung**: Erleichtert die einfache Steuerung und den Datentransfer zum Zielgerät.
 
-<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/type-c-to-usb-a-cable-with-adapter'"> Bestellung aufgeben <img src="/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>
+<button class="md-button" onclick="window.location.href='https://shop.techxartisan.com/products/type-c-to-usb-a-cable-with-adapter'"> Bestellung aufgeben <img src="https://assets.openterface.com/images/trademark/txa.svg" alt="TxA Shop" style="vertical-align: middle; height: 20px;"></button>

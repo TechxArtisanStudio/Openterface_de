@@ -11,8 +11,8 @@ keywords: "Mini-KVM, KVM über USB, KVM über IP, headless Steuerung, HDMI KVM, 
 
 Unser **Openterface™ Mini-KVM** ist eine Plug-and-Play **KVM-over-USB** Lösung. Es ermöglicht Ihnen, einen nahegelegenen headless Computer direkt von Ihrem Laptop oder Desktop über USB- und HDMI-Verbindungen zu steuern, wodurch die Notwendigkeit zusätzlicher Peripheriegeräte oder einer Netzwerkverbindung entfällt. In dieser Dokumentation beziehen wir uns auf
 
-- Ihren steuernden Laptop oder PC als ![host-computer](/images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![Host](/images/shell-icons/host.svg#only-light){:style="height:15px"} ![host-computer](/images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"} ![Host](/images/shell-icons/host_1.svg#only-dark){:style="height:15px"}
-- Das gesteuerte Gerät als ![target-computer](/images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![Target](/images/shell-icons/target.svg#only-light){:style="height:18px"} ![target-computer](/images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"} ![Target](/images/shell-icons/target_1.svg#only-dark){:style="height:18px"}
+- Ihren steuernden Laptop oder PC als ![host-computer](https://assets.openterface.com/images/shell-icons/host-computer.svg#only-light){:style="height:18px"} ![Host](https://assets.openterface.com/images/shell-icons/host.svg#only-light){:style="height:15px"} ![host-computer](https://assets.openterface.com/images/shell-icons/host-computer_1.svg#only-dark){:style="height:18px"} ![Host](https://assets.openterface.com/images/shell-icons/host_1.svg#only-dark){:style="height:15px"}
+- Das gesteuerte Gerät als ![target-computer](https://assets.openterface.com/images/shell-icons/target-computer.svg#only-light){:style="height:18px"} ![Target](https://assets.openterface.com/images/shell-icons/target.svg#only-light){:style="height:18px"} ![target-computer](https://assets.openterface.com/images/shell-icons/target-computer_1.svg#only-dark){:style="height:18px"} ![Target](https://assets.openterface.com/images/shell-icons/target_1.svg#only-dark){:style="height:18px"}
 
 <div class="grid cards" markdown>
 
