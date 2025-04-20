@@ -15,7 +15,7 @@ Wir setzen uns für offene Hardware und Open-Source-Software ein, lizenziert unt
 -   Streamt Videoausgaben vom angeschlossenen Zielgerät in Echtzeit auf den Android-Bildschirm.
 -   Unterstützt Bildanpassungen für optimale Anzeige.
 
-![image](https://assets.openterface.com/images/android/videoConnect.jpg)
+![image](https://assets.openterface.com/images/android/videoConnect.webp)
 
 #### Beschreibung der Benutzeroberfläche
 
@@ -63,7 +63,7 @@ Wir setzen uns für offene Hardware und Open-Source-Software ein, lizenziert unt
 
 -   Relative Maussteuerung (in Entwicklung, Umschaltung über Einstellungen, wenn verfügbar).
 
-## ![image](https://assets.openterface.com/images/android/mouseThouchMode.jpg)
+## ![image](https://assets.openterface.com/images/android/mouseThouchMode.webp)
 
 ### 3. Tastatureingabe
 
@@ -89,8 +89,8 @@ Wir setzen uns für offene Hardware und Open-Source-Software ein, lizenziert unt
 -   **Standardtasten**: 0-9, A-Z, Enter, Leertaste, Löschen.
 
 ![image](https://assets.openterface.com/images/android/enlargeAndKeyBoard.webp)
-![image](https://assets.openterface.com/images/android/keyBoardFunction.jpg)
-![image](https://assets.openterface.com/images/android/keyBoardSystem.jpg)
+![image](https://assets.openterface.com/images/android/keyBoardFunction.webp)
+![image](https://assets.openterface.com/images/android/keyBoardSystem.webp)
 
 ---
 
