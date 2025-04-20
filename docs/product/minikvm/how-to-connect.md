@@ -8,8 +8,8 @@ keywords: "Mini-KVM Einrichtung, KVM Verbindungsanleitung, USB-C KVM Einrichtung
 
 ## Verbindungs Schritte
 
-![to-host](/images/product/to-host.svg#only-light){:style="height:260px"} ![to-host](/images/product/to-host_1.svg#only-dark){:style="height:260px"}
-![to-target](/images/product/to-target.svg#only-light){:style="height:260px"} ![to-target](/images/product/to-target_1.svg#only-dark){:style="height:260px"}
+![to-host](https://assets.openterface.com/images/product/to-host.svg#only-light){:style="height:260px"} ![to-host](https://assets.openterface.com/images/product/to-host_1.svg#only-dark){:style="height:260px"}
+![to-target](https://assets.openterface.com/images/product/to-target.svg#only-light){:style="height:260px"} ![to-target](https://assets.openterface.com/images/product/to-target_1.svg#only-dark){:style="height:260px"}
 
 Um Ihr Mini-KVM einzurichten, folgen Sie diesen Schritten in der angegebenen Reihenfolge:
 
@@ -34,13 +34,13 @@ Um Ihr Mini-KVM einzurichten, folgen Sie diesen Schritten in der angegebenen Rei
 
 ## Schnittstellen
 
-![host-side](/images/product/host-htc.svg#only-light){:style="width:360px"}
+![host-side](https://assets.openterface.com/images/product/host-htc.svg#only-light){:style="width:360px"}
 
-![target-side](/images/product/target-htc.svg#only-light){:style="width:360px"}
+![target-side](https://assets.openterface.com/images/product/target-htc.svg#only-light){:style="width:360px"}
 
-![host-side](/images/product/host-htc_1.svg#only-dark){:style="width:360px"}
+![host-side](https://assets.openterface.com/images/product/host-htc_1.svg#only-dark){:style="width:360px"}
 
-![target-side](/images/product/target-htc_1.svg#only-dark){:style="width:360px"}
+![target-side](https://assets.openterface.com/images/product/target-htc_1.svg#only-dark){:style="width:360px"}
 
 ① ![Type-C zu Host](/images/shell-icons/host.svg#only-light){:style="height:15px"} ![Type-C zu Host](/images/shell-icons/host_1.svg#only-dark){:style="height:15px"} - **Host USB-C Port** (Weiblich): Als USB-Geräteanschluss, der mit dem Host-Computer für den Datentransfer über den integrierten USB-Hub verbunden ist
 

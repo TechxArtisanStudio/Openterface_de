@@ -55,6 +55,6 @@ keywords: USB KVM, Openterface, KVM-over-USB, tragbarer KVM, Plug-and-Play KVM, 
 
 Dieser Abschnitt bietet Antworten auf Fragen zur KVM-over-USB-Technologie, unserer Openterface-Marke und wie unsere Produkte in verschiedenen Szenarien passen. Ob Sie ein Neuling oder ein erfahrener Profi sind, diese FAQs sind darauf ausgelegt, Sie zu leiten.
 
-![USB-KMV-Beispiel](/images/product/use-case-demo-industrial-pc.jpg){:style="max-height:320px"}
+![USB-KMV-Beispiel](https://assets.openterface.com/images/product/use-case-demo-industrial-pc.jpg){:style="max-height:320px"}
 
 *USB KVM: Tragbare, Plug-and-Play, netzwerkfreie KVM-Steuerung für headless Geräte*

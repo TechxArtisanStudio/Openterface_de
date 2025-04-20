@@ -6,7 +6,7 @@ keywords: "Mini-KVM Erweiterungsstifte, benutzerdefinierte Entwicklung, Hardware
 
 # **Erweiterungsstifte** | Entwicklermodus | Openterface Mini-KVM
 
-![mini-kvm-pins-port](/images/product/mini-kvm-pins-port.png){:style="height:360px"}
+![mini-kvm-pins-port](https://assets.openterface.com/images/product/mini-kvm-pins-port.png){:style="height:360px"}
 ![pin-cap](https://assets.openterface.com/images/product/part/pin-cap.jpg){:style="height:300px"}
 
 Der Openterface Mini-KVM verfügt über Erweiterungsstifte für fortgeschrittene Entwicklungen und [Open Software](/app) Experimente. Diese Stifte sind in der Standardgehäusekonfiguration nicht zugänglich.
@@ -18,8 +18,8 @@ Der Openterface Mini-KVM verfügt über Erweiterungsstifte für fortgeschrittene
 3. Laden Sie das [3D-Modell](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware/tree/main/models) für die Erweiterungsstiftkappe herunter.
 4. Besuchen Sie unser [Hardware GitHub-Repository](https://github.com/TechxArtisanStudio/Openterface_Mini-KVM_Hardware).
 
-![change-cap](/images/product/change-cap.svg#only-light){:style="height:300px"}
-![change-cap](/images/product/change-cap_1.svg#only-dark){:style="height:300px"}
+![change-cap](https://assets.openterface.com/images/product/change-cap.svg#only-light){:style="height:300px"}
+![change-cap](https://assets.openterface.com/images/product/change-cap_1.svg#only-dark){:style="height:300px"}
 
 !!! warning "Garantie erlischt"
     Das Entfernen des originalen Gehäuses kann die Produktgarantie erlöschen. Alle Modifikationen oder Zerlegungen erfolgen auf eigenes Risiko des Benutzers.
@@ -29,10 +29,10 @@ Der Openterface Mini-KVM verfügt über Erweiterungsstifte für fortgeschrittene
 
 ## Pin-Konfiguration
 
-![target-side](/images/product/extension-pins-1.svg#only-light){:style="height:200px"}
-![host-side](/images/product/extension-pins-2.svg#only-light){:style="height:200px"}
-![target-side](/images/product/extension-pins-1_1.svg#only-dark){:style="height:200px"}
-![host-side](/images/product/extension-pins-2_1.svg#only-dark){:style="height:200px"}
+![target-side](https://assets.openterface.com/images/product/extension-pins-1.svg#only-light){:style="height:200px"}
+![host-side](https://assets.openterface.com/images/product/extension-pins-2.svg#only-light){:style="height:200px"}
+![target-side](https://assets.openterface.com/images/product/extension-pins-1_1.svg#only-dark){:style="height:200px"}
+![host-side](https://assets.openterface.com/images/product/extension-pins-2_1.svg#only-dark){:style="height:200px"}
 
 Die Erweiterungsstifte bieten die folgenden Verbindungen:
 

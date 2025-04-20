@@ -7,7 +7,7 @@ keywords: "Mini-KVM, KVM über USB, KVM über IP, headless Steuerung, HDMI KVM, 
 
 # **Openterface Mini-KVM**
 
-![basic-two-angled](/images/product/basic-two-angled.jpg){:style="max-height:320px"}
+![basic-two-angled](https://assets.openterface.com/images/product/basic-two-angled.jpg){:style="max-height:320px"}
 
 Unser **Openterface™ Mini-KVM** ist eine Plug-and-Play **KVM-over-USB** Lösung. Es ermöglicht Ihnen, einen nahegelegenen headless Computer direkt von Ihrem Laptop oder Desktop über USB- und HDMI-Verbindungen zu steuern, wodurch die Notwendigkeit zusätzlicher Peripheriegeräte oder einer Netzwerkverbindung entfällt. In dieser Dokumentation beziehen wir uns auf
 
