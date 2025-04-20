@@ -2,7 +2,7 @@
 
 ## Unsere Marke & Slogan
 
-![Openterface Logo](images/openterface.png)  
+![Openterface Logo](https://assets.openterface.com/images/openterface.webp)  
 
 **Openterface** ist ein Name, der aus einer einfachen, aber kraftvollen Idee geboren wurde:  
 
