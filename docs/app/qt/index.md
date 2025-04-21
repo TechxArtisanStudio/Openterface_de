@@ -7,7 +7,7 @@ Dieses Dokument bietet einen Überblick über eine plattformübergreifende KVM-S
 ### Einstellungen
 
 Das Einstellungsmenü ermöglicht es den Benutzern, die Einstellungen über einen Dialog mit vier Seiten anzupassen:<br>
-![Einstellungen Allgemein](https://assets.openterface.com/images/qt/preferenceGernal.png)
+![Einstellungen Allgemein](https://assets.openterface.com/images/qt/preferenceGernal.webp)
 
 -   **Allgemein** Diese Seite konfiguriert den Filter für Debug-Protokolle und ob der Bildschirmschoner während der Ausführung der Anwendung deaktiviert werden soll oder nicht. Die Protokollkategorien umfassen:
 
@@ -18,7 +18,7 @@ Das Einstellungsmenü ermöglicht es den Benutzern, die Einstellungen über eine
 
     Benutzer können wählen, ob sie Protokolle in einer .txt-Datei speichern und den Bildschirmschoner deaktivieren möchten oder nicht.<br>
 
-![Einstellungen Video](https://assets.openterface.com/images/qt/preferenceVideo.png)
+![Einstellungen Video](https://assets.openterface.com/images/qt/preferenceVideo.webp)
 
 -   **Video** Diese Seite ermöglicht es den Benutzern:
 
@@ -28,7 +28,7 @@ Das Einstellungsmenü ermöglicht es den Benutzern, die Einstellungen über eine
 
 -   **Audio** Diese Seite befindet sich derzeit in der Entwicklung.<br>
 
-![Einstellungen Zielsteuerung](https://assets.openterface.com/images/qt/preferenceTargetControl.png)
+![Einstellungen Zielsteuerung](https://assets.openterface.com/images/qt/preferenceTargetControl.webp)
 
 -   **Zielsteuerung** Diese Seite bietet Optionen zur Konfiguration der Steuerungsmodi für das Zielgerät:
 
@@ -58,15 +58,15 @@ Dieses Menü bietet Optionen zum:<br>
 ### Erweitert
 
 Das Erweitert-Menü umfasst die folgenden Optionen:<br>
-![Erweitert Menü](https://assets.openterface.com/images/qt/menuAdvance.png)
+![Erweitert Menü](https://assets.openterface.com/images/qt/menuAdvance.webp)
 
 -   **Umgebungsprüfung:** Überprüft, ob die erforderlichen Treiber für die Software installiert sind.
 -   **Seriellen Port zurücksetzen:** Startet den seriellen Port neu.
 -   **Tastatur und Maus zurücksetzen:** Setzt die Einstellungen für Tastatur und Maus zurück.
 -   **Werkseinstellung für HID-Chip:** Stellt den HID-Chip auf die Werkseinstellungen zurück.<br>
-    ![Erweitert Serielles Konsolen](https://assets.openterface.com/images/qt/advanceSerialConsole.png)
+    ![Erweitert Serielles Konsolen](https://assets.openterface.com/images/qt/advanceSerialConsole.webp)
 -   **Serielle Konsole:** Öffnet ein neues Fenster, um alle Nachrichten zu überwachen, die an den seriellen Port gesendet werden, mit Filtern für gesendete/empfangene Nachrichten.<br>
-    ![Erweitert Skriptwerkzeug](https://assets.openterface.com/images/qt/advanceScriptTool.png)
+    ![Erweitert Skriptwerkzeug](https://assets.openterface.com/images/qt/advanceScriptTool.webp)
 -   **Skriptwerkzeug:** Führt AutoHotkey (AHK)-Skripte aus. Diese Funktion ahmt AutoHotkey nach, unterstützt jedoch nur eine Teilmenge von Maus-/Tastaturfunktionen und Screenshot-Funktionen. Skripte wirken sich auf das Zielgerät aus.
 -   **TCP-Server:** Empfängt AutoHotkey-Befehle über TCP, um sie auf dem Zielgerät auszuführen.
 -   **Firmware-Update:** Holt die neueste Firmware von einem Remote-Server, sodass die Benutzer wählen können, ob sie sie auf das Gerät flashen möchten.
@@ -85,7 +85,7 @@ Die Schnittstellensprache kann auf Folgendes eingestellt werden:
 ### Hilfe
 
 Das Hilfemenü bietet: <br>
-![Hilfe Menü](https://assets.openterface.com/images/qt/menuHelp.png)
+![Hilfe Menü](https://assets.openterface.com/images/qt/menuHelp.webp)
 
 -   Links zur offiziellen Website und Feedback-Formulare für Software-/Hardwareprobleme.
 -   Informationen zum Kauf von Hardware.
@@ -97,7 +97,7 @@ Das Hilfemenü bietet: <br>
 
 Die Menüleiste umfasst von links nach rechts die folgenden Funktionen:<br>
 
-![Menüleiste](https://assets.openterface.com/images/qt/menubar.png)
+![Menüleiste](https://assets.openterface.com/images/qt/menubar.webp)
 
 -   Auswahl der Tastaturbelegung: Wählen Sie die Tastaturbelegung aus.
 -   Zoom-Steuerungen: Hineinzoomen, herauszoomen oder die Anzeige des erfassten Video-Streams zurücksetzen.

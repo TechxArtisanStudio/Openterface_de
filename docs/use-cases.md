@@ -19,21 +19,21 @@ Der **Openterface Mini-KVM** hebt IT-Workflows an und transformiert das Gerätem
     ---
 
     Ideal für IT-Profis in Rechenzentren. Mini-KVM steuert mehrere Server von einem einzigen Laptop aus, steigert die Effizienz und reduziert Ausfallzeiten.
-    <img src="https://assets.openterface.com/images/product/use-case-demo-pc-bios-1.jpg" alt="Serververwaltung BIOS-Demo" style="max-width: 100%;"/>
+    <img src="https://assets.openterface.com/images/product/use-case-demo-pc-bios-1.webp" alt="Serververwaltung BIOS-Demo" style="max-width: 100%;"/>
 
 -   :material-tools:{ .lg } __Vereinfachtes Setup für Technikbegeisterte__
 
     ---
 
     Für Embedded-Entwickler, die Raspberry Pi oder Jetson Nano verwenden, ermöglicht Mini-KVM die direkte Steuerung ohne zusätzliche Monitore oder Peripheriegeräte.
-    <img src="https://assets.openterface.com/images/product/use-case-demo-respberry-pi.jpg" alt="Raspberry Pi-Setup-Demo" style="max-width: 100%;"/>
+    <img src="https://assets.openterface.com/images/product/use-case-demo-respberry-pi.webp" alt="Raspberry Pi-Setup-Demo" style="max-width: 100%;"/>
 
 -   :material-devices:{ .lg } __Vereinheitlichte Steuerung für verschiedene Geräte__
 
     ---
 
     Verwalten Sie persönliche/Arbeitsmaschinen oder spezialisierte Hardware (Geldautomaten, Kioske, VLTs) von einer Schnittstelle aus—kein Kabel- oder Tastaturwechsel mehr.
-    <img src="https://assets.openterface.com/images/product/use-case-demo-macmini2009-3.jpg" alt="Vereinheitlichte Steuerung mehrerer Geräte" style="max-width: 100%;"/>
+    <img src="https://assets.openterface.com/images/product/use-case-demo-macmini2009-3.webp" alt="Vereinheitlichte Steuerung mehrerer Geräte" style="max-width: 100%;"/>
 
 -   :material-hospital-building:{ .lg } __Sichere Operationen für sensible Aufgaben__
 
@@ -47,7 +47,7 @@ Der **Openterface Mini-KVM** hebt IT-Workflows an und transformiert das Gerätem
     ---
 
     Wechseln Sie nahtlos zwischen persönlichen, beruflichen oder Edge-Computing-Setups durch einen einzigen optimierten Steuerungsfluss.
-    <img src="https://assets.openterface.com/images/product/use-case-demo-macbookpro2010.jpg" alt="Integration gemischter Workflows" style="max-width: 100%;"/>
+    <img src="https://assets.openterface.com/images/product/use-case-demo-macbookpro2010.webp" alt="Integration gemischter Workflows" style="max-width: 100%;"/>
 
 -   :material-pencil:{ .lg } __Nahtlose Steuerung: Mini-KVM + Android-Stift__
 
