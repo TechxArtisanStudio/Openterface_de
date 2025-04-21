@@ -6,8 +6,8 @@ keywords: "Mini-KVM Erweiterungsstifte, benutzerdefinierte Entwicklung, Hardware
 
 # **Erweiterungsstifte** | Entwicklermodus | Openterface Mini-KVM
 
-![mini-kvm-pins-port](https://assets.openterface.com/images/product/mini-kvm-pins-port.png){:style="height:360px"}
-![pin-cap](https://assets.openterface.com/images/product/part/pin-cap.jpg){:style="height:300px"}
+![mini-kvm-pins-port](https://assets.openterface.com/images/product/mini-kvm-pins-port.webp){:style="height:360px"}
+![pin-cap](https://assets.openterface.com/images/product/part/pin-cap.webp){:style="height:300px"}
 
 Der Openterface Mini-KVM verfügt über Erweiterungsstifte für fortgeschrittene Entwicklungen und [Open Software](/app) Experimente. Diese Stifte sind in der Standardgehäusekonfiguration nicht zugänglich.
 
@@ -48,7 +48,7 @@ Die Erweiterungsstifte bieten die folgenden Verbindungen:
 
 ## Erweiterungsstiftkappe
 
-![pin-cap](https://assets.openterface.com/images/product/part/pin-cap.jpg){:style="height:360px"}
+![pin-cap](https://assets.openterface.com/images/product/part/pin-cap.webp){:style="height:360px"}
 
 Diese 3D-gedruckte Erweiterungsstiftkappe ersetzt die originale Kappe des Openterface Mini-KVM und ermöglicht es fortgeschrittenen Benutzern, die Erweiterungsstifte freizulegen und darauf zuzugreifen. Sie können die 3D-Modell-Dateien aus unserem GitHub-Repository herunterladen und die Kappe selbst drucken.
 
