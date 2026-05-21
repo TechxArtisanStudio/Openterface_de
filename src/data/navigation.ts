@@ -8,23 +8,23 @@ export interface NavItem {
 }
 
 export const mainNav: NavItem[] = [
-  { label: 'Home', href: '/' },
+  { label: 'Startseite', href: '/' },
   {
-    label: 'Products',
+    label: 'Produkte',
     href: '#',
     children: [
       { label: 'KeyMod Series', href: '/products/keymod/' },
       { label: 'KVM-GO Series', href: '/products/kvm-go/' },
       { label: 'Mini-KVM', href: '/products/minikvm/' },
       { label: 'uConsole KVM Extension', href: '/products/uconsole-kvm-extension/' },
-      { label: 'Accessories', href: '/products/accessories/' },
+      { label: 'Zubehör', href: '/products/accessories/' },
     ],
   },
   { label: 'Videos', href: '/videos/' },
-  { label: 'Use Cases', href: '/use-cases/' },
+  { label: 'Anwendungsfälle', href: '/use-cases/' },
   { label: 'FAQs', href: legacyPath('/faq/'), external: true },
   { label: 'App', href: legacyPath('/app/overview/'), external: true },
   { label: 'Tutorial', href: legacyPath('/tutorial/'), external: true },
   { label: 'Support', href: legacyPath('/support/'), external: true },
-  { label: 'About', href: '/about/' },
+  { label: 'Über uns', href: '/about/' },
 ];
