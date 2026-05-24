@@ -1,4 +1,4 @@
-import { legacyPath, siteConfig } from '../config/site';
+import { docsPath, siteConfig } from '../config/site';
 
 export interface ProductDocLink {
   label: string;
@@ -74,11 +74,11 @@ export const products: Record<string, Product> = {
     ],
     useCases: ['Smart TV & Kiosk-Eingabe', 'Mobile Workflow-Makros', 'Gaming & Barrierefreiheit-Setups'],
     docLinks: [
-      { label: 'Features', href: legacyPath('/product/keymod/features/') },
-      { label: 'Lieferumfang', href: legacyPath('/product/keymod/whats-in-the-box/') },
-      { label: 'Anschlussanleitung', href: legacyPath('/product/keymod/how-to-connect/') },
-      { label: 'FAQs', href: legacyPath('/product/keymod/faq/') },
-      { label: 'KeyMod App herunterladen', href: legacyPath('/app/overview/') },
+      { label: 'Features', href: docsPath('/product/keymod/features/') },
+      { label: 'Lieferumfang', href: docsPath('/product/keymod/whats-in-the-box/') },
+      { label: 'Anschlussanleitung', href: docsPath('/product/keymod/how-to-connect/') },
+      { label: 'FAQs', href: docsPath('/product/keymod/faq/') },
+      { label: 'KeyMod App herunterladen', href: docsPath('/app/overview/') },
     ],
     legacyBase: '/product/keymod/',
   },
@@ -127,11 +127,11 @@ export const products: Record<string, Product> = {
     ],
     useCases: ['Rechenzentrumsbegehungen', 'Headless-Geräte-Setup', 'IT-Außeneinsatz und Homelab-Rettung'],
     docLinks: [
-      { label: 'Features', href: legacyPath('/product/kvm-go/features/') },
-      { label: 'Beta-Schnellstart', href: legacyPath('/product/kvm-go/beta-quick-start/') },
-      { label: 'Anschlussanleitung', href: legacyPath('/product/kvm-go/how-to-connect/') },
-      { label: 'FAQs', href: legacyPath('/product/kvm-go/faq/') },
-      { label: 'App herunterladen', href: legacyPath('/app/overview/') },
+      { label: 'Features', href: docsPath('/product/kvm-go/features/') },
+      { label: 'Beta-Schnellstart', href: docsPath('/product/kvm-go/beta-quick-start/') },
+      { label: 'Anschlussanleitung', href: docsPath('/product/kvm-go/how-to-connect/') },
+      { label: 'FAQs', href: docsPath('/product/kvm-go/faq/') },
+      { label: 'App herunterladen', href: docsPath('/app/overview/') },
     ],
     legacyBase: '/product/kvm-go/',
   },
@@ -180,11 +180,11 @@ export const products: Record<string, Product> = {
     ],
     useCases: ['Homelab-Management', 'Side-by-side-Steuerung von Entwickler-Workstations', 'Fehlersuche am IT-Prüfstand'],
     docLinks: [
-      { label: 'Features', href: legacyPath('/product/minikvm/features/') },
-      { label: 'USB-Switch', href: legacyPath('/product/minikvm/usb-switch/') },
-      { label: 'Technischer Support', href: legacyPath('/product/minikvm/support/') },
-      { label: 'FAQs', href: legacyPath('/product/minikvm/faq/') },
-      { label: 'App herunterladen', href: legacyPath('/app/overview/') },
+      { label: 'Features', href: docsPath('/product/minikvm/features/') },
+      { label: 'USB-Switch', href: docsPath('/product/minikvm/usb-switch/') },
+      { label: 'Technischer Support', href: docsPath('/product/minikvm/support/') },
+      { label: 'FAQs', href: docsPath('/product/minikvm/faq/') },
+      { label: 'App herunterladen', href: docsPath('/app/overview/') },
     ],
     legacyBase: '/product/minikvm/',
   },
@@ -203,7 +203,7 @@ export const products: Record<string, Product> = {
       'https://assets.openterface.com/images/uconsole-kvm-extension/uconsole-kvm-extension-1.webp',
     ],
     buyLabel: 'Mehr erfahren',
-    buyHref: legacyPath('/product/uconsole-kvm-extension/'),
+    buyHref: docsPath('/product/uconsole-kvm-extension/'),
     painPoints: [
       'Tragbare Konsolen verfügen nicht über integriertes KVM für Headless-Ziele',
       'Techniker im Außeneinsatz wünschen sich ein Gerät für alles',
@@ -226,10 +226,10 @@ export const products: Record<string, Product> = {
     ],
     useCases: ['Tragbares Rechenzentrumstool', 'Maker & Homelab für unterwegs'],
     docLinks: [
-      { label: 'Hardware-Installation', href: legacyPath('/product/uconsole-kvm-extension/hardware-installation/') },
-      { label: 'Software-Einrichtung', href: legacyPath('/product/uconsole-kvm-extension/software-setup/') },
-      { label: 'Anschlussanleitung', href: legacyPath('/product/uconsole-kvm-extension/connect-to-target/') },
-      { label: 'FAQs', href: legacyPath('/product/uconsole-kvm-extension/faq/') },
+      { label: 'Hardware-Installation', href: docsPath('/product/uconsole-kvm-extension/hardware-installation/') },
+      { label: 'Software-Einrichtung', href: docsPath('/product/uconsole-kvm-extension/software-setup/') },
+      { label: 'Anschlussanleitung', href: docsPath('/product/uconsole-kvm-extension/connect-to-target/') },
+      { label: 'FAQs', href: docsPath('/product/uconsole-kvm-extension/faq/') },
     ],
     legacyBase: '/product/uconsole-kvm-extension/',
   },
@@ -257,7 +257,7 @@ export const products: Record<string, Product> = {
     specs: [],
     useCases: ['Organisation des Field-Kits', 'Videoformat-Konvertierung', 'Ersatzkabel für IT-Notfalltaschen'],
     docLinks: [
-      { label: 'Alle SKUs', href: legacyPath('/product/accessories/') },
+      { label: 'Alle SKUs', href: docsPath('/product/accessories/') },
       { label: 'TxA Shop', href: siteConfig.links.shop },
     ],
     legacyBase: '/product/accessories/',
