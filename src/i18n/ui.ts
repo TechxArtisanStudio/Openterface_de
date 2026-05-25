@@ -17,6 +17,44 @@ export interface MarketingUi {
     emailPlaceholder: string;
     footnote: string;
   };
+  siteFooter: {
+    tagline: string;
+    productsHeading: string;
+    keymodSeries: string;
+    kvmGoSeries: string;
+    miniKvm: string;
+    accessories: string;
+    resourcesHeading: string;
+    videos: string;
+    faqs: string;
+    apps: string;
+    support: string;
+    newsletterTitle: string;
+    newsletterDescription: string;
+    newsletterSubmit: string;
+    newsletterNamePlaceholder: string;
+    newsletterEmailPlaceholder: string;
+    newsletterFootnote: string;
+    copyright: string;
+    privacy: string;
+    terms: string;
+  };
+  productLanding: {
+    downloadApp: string;
+    backers: string;
+    theProblem: string;
+    theSolution: string;
+    hwSoftwareTitle: string;
+    hwSoftwareSubtitle: string;
+    hardware: string;
+    software: string;
+    swFallback: string;
+    keySpecs: string;
+    useCases: string;
+    documentation: string;
+    ctaTitle: string;
+    ctaSubtitle: string;
+  };
 }
 
 export const ui: MarketingUi = {
@@ -37,5 +75,43 @@ export const ui: MarketingUi = {
     "namePlaceholder": "Name (optional)",
     "emailPlaceholder": "E-Mail-Adresse *",
     "footnote": "Höchstens eine E-Mail pro Monat. Jederzeit kündbar. Anfragen: info@openterface.com"
+  },
+  "siteFooter": {
+    "tagline": "Ultrakompakte KVM-over-USB-Lösungen für IT-Profis.",
+    "productsHeading": "Produkte",
+    "keymodSeries": "KeyMod Series",
+    "kvmGoSeries": "KVM-GO Series",
+    "miniKvm": "Mini-KVM",
+    "accessories": "Zubehör",
+    "resourcesHeading": "Ressourcen",
+    "videos": "Videos",
+    "faqs": "FAQs",
+    "apps": "Apps",
+    "support": "Support",
+    "newsletterTitle": "Newsletter",
+    "newsletterDescription": "Monatliche Updates zu Produkten, Firmware und KVM-Tipps.",
+    "newsletterSubmit": "Abonnieren",
+    "newsletterNamePlaceholder": "Name",
+    "newsletterEmailPlaceholder": "E-Mail *",
+    "newsletterFootnote": "Jederzeit kündbar.",
+    "copyright": "Openterface. Open-Source KVM-over-USB.",
+    "privacy": "Datenschutz",
+    "terms": "Nutzungsbedingungen"
+  },
+  "productLanding": {
+    "downloadApp": "App herunterladen",
+    "backers": "Unterstützer",
+    "theProblem": "Das Problem",
+    "theSolution": "Die Lösung",
+    "hwSoftwareTitle": "Hardware + Software",
+    "hwSoftwareSubtitle": "Openterface-Produkte funktionieren am besten mit unseren Open-Source-Host-Apps.",
+    "hardware": "Hardware",
+    "software": "Software",
+    "swFallback": "Details zur Zubehörkompatibilität finden Sie im TxA Shop.",
+    "keySpecs": "Wichtige Specs",
+    "useCases": "Anwendungsfälle",
+    "documentation": "Dokumentation",
+    "ctaTitle": "Bereit loszulegen?",
+    "ctaSubtitle": "Hardware bestellen und die Openterface-App für Ihre Plattform herunterladen."
   }
 };
