@@ -17,6 +17,18 @@ export interface MarketingUi {
     emailPlaceholder: string;
     footnote: string;
   };
+  productSubscribe: {
+    kicker: string;
+    heading: string;
+    description: string;
+    benefitCrowdfunding: string;
+    benefitGuides: string;
+    benefitUnsubscribe: string;
+    submitLabel: string;
+    namePlaceholder: string;
+    emailPlaceholder: string;
+    footnote: string;
+  };
   siteFooter: {
     tagline: string;
     productsHeading: string;
@@ -29,6 +41,7 @@ export interface MarketingUi {
     faqs: string;
     apps: string;
     support: string;
+    newsletterLink: string;
     newsletterTitle: string;
     newsletterDescription: string;
     newsletterSubmit: string;
@@ -89,14 +102,15 @@ export const ui: MarketingUi = {
     "apps": "Apps",
     "support": "Support",
     "newsletterTitle": "Newsletter",
-    "newsletterDescription": "Monatliche Updates zu Produkten, Firmware und KVM-Tipps.",
+    "newsletterDescription": "Früher Zugang zu Launches, monatliche Produkt- & Firmware-Updates und KVM-Tipps — höchstens eine E-Mail pro Monat.",
     "newsletterSubmit": "Abonnieren",
     "newsletterNamePlaceholder": "Name",
     "newsletterEmailPlaceholder": "E-Mail *",
     "newsletterFootnote": "Jederzeit kündbar.",
     "copyright": "Openterface. Open-Source KVM-over-USB.",
     "privacy": "Datenschutz",
-    "terms": "Nutzungsbedingungen"
+    "terms": "Nutzungsbedingungen",
+    "newsletterLink": "Newsletter"
   },
   "productLanding": {
     "downloadApp": "App herunterladen",
@@ -113,5 +127,17 @@ export const ui: MarketingUi = {
     "documentation": "Dokumentation",
     "ctaTitle": "Bereit loszulegen?",
     "ctaSubtitle": "Hardware bestellen und die Openterface-App für Ihre Plattform herunterladen."
+  },
+  "productSubscribe": {
+    "kicker": "Bleiben Sie informiert",
+    "heading": "{product}: Launch- & Firmware-Updates erhalten",
+    "description": "Erfahren Sie als Erster von Vorbestellungen, Firmware-Releases und Setup-Tipps für dieses Produkt — höchstens eine E-Mail pro Monat.",
+    "benefitCrowdfunding": "Früher Zugang zu Crowdfunding- und Vorbestellungsfenstern",
+    "benefitGuides": "Setup-Anleitungen und App-Release-Notes",
+    "benefitUnsubscribe": "Jederzeit mit einem Klick abbestellen",
+    "submitLabel": "Updates abonnieren",
+    "namePlaceholder": "Name (optional)",
+    "emailPlaceholder": "E-Mail-Adresse *",
+    "footnote": "Höchstens eine E-Mail pro Monat. Jederzeit kündbar. Anfragen: info@openterface.com"
   }
 };
